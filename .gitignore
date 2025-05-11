@@ -1,0 +1,16 @@
+*.fit
+*.fits
+
+Final_Project/original_data/*
+Final_Project/22_10_2023_replaced/astrometry/*
+Final_Project/22_10_2023_replaced/calibration/*
+Final_Project/22_10_2023_replaced/photometry/*
+
+Final_Project/22_10_2023_replaced/diff_photometry/x1_photometry/*
+Final_Project/22_10_2023_replaced/diff_photometry/x2_photometry/*
+Final_Project/22_10_2023_replaced/diff_photometry/x3_photometry/*
+Final_Project/22_10_2023_replaced/diff_photometry/x4_photometry/*
+Final_Project/22_10_2023_replaced/diff_photometry/x5_photometry/*
+Final_Project/22_10_2023_replaced/diff_photometry/x6_photometry/*
+Final_Project/22_10_2023_replaced/diff_photometry/x7_photometry/*
+Final_Project/22_10_2023_replaced/diff_photometry/x8_photometry/*

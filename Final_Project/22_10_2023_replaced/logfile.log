@@ -1,0 +1,1084 @@
+
+========= CALIBRATION START: 2025-04-21 14:55:19.479949 ===========
+
+
+----------------------- MAKE MASTER BIAS FRAME: 2025-04-21 14:55:19.480003------------------------
+
+Making master bias: mBias.fits
+
+
+----------------------- MAKE MASTER DARK FRAME: 2025-04-21 14:55:20.511910------------------------
+
+Making master dark: mDark_5sec.fits
+
+Making master dark: mDark_200sec.fits
+
+Making master dark: mDark_600sec.fits
+
+
+----------------------- MAKE MASTER FLAT FRAME: 2025-04-21 14:55:25.907018------------------------
+
+Making master flat: mFlat_B.fits
+
+Making master flat: mFlat_Ha.fits
+
+Making master flat: mFlat_HaContinuum.fits
+
+Making master flat: mFlat_R.fits
+
+Making master flat: mFlat_SII.fits
+
+Making master flat: mFlat_V.fits
+
+
+----------------------- DO CLASSIC CALIBRATION: 2025-04-21 14:55:38.973320------------------------
+
+-----> Calibrate /home/shoaib/APT/Final_Project/22_10_2023_replaced/Mrk335-0001_B.fit file-----> Calibrate /home/shoaib/APT/Final_Project/22_10_2023_replaced/Mrk335-0001_Ha.fit file
+-----> Calibrate /home/shoaib/APT/Final_Project/22_10_2023_replaced/Mrk335-0001_R.fit file-----> Calibrate /home/shoaib/APT/Final_Project/22_10_2023_replaced/Mrk335-0001_SII.fit file
+-----> Calibrate /home/shoaib/APT/Final_Project/22_10_2023_replaced/Mrk335-0001_V.fit file
+-----> Calibrate /home/shoaib/APT/Final_Project/22_10_2023_replaced/Mrk335-0001_cnt.fit file
+
+-----> Calibrate /home/shoaib/APT/Final_Project/22_10_2023_replaced/Mrk335-0002_B.fit file
+-----> Calibrate /home/shoaib/APT/Final_Project/22_10_2023_replaced/Mrk335-0002_Ha.fit file-----> Calibrate /home/shoaib/APT/Final_Project/22_10_2023_replaced/Mrk335-0002_R.fit file
+-----> Calibrate /home/shoaib/APT/Final_Project/22_10_2023_replaced/Mrk335-0002_SII.fit file
+-----> Calibrate /home/shoaib/APT/Final_Project/22_10_2023_replaced/Mrk335-0002_V.fit file
+
+-----> Calibrate /home/shoaib/APT/Final_Project/22_10_2023_replaced/Mrk335-0002_cnt.fit file
+-----> Calibrate /home/shoaib/APT/Final_Project/22_10_2023_replaced/Mrk335-0003_B.fit file
+-----> Calibrate /home/shoaib/APT/Final_Project/22_10_2023_replaced/Mrk335-0003_Ha.fit file
+-----> Calibrate /home/shoaib/APT/Final_Project/22_10_2023_replaced/Mrk335-0003_R.fit file-----> Calibrate /home/shoaib/APT/Final_Project/22_10_2023_replaced/Mrk335-0003_SII.fit file
+-----> Calibrate /home/shoaib/APT/Final_Project/22_10_2023_replaced/Mrk335-0003_V.fit file-----> Calibrate /home/shoaib/APT/Final_Project/22_10_2023_replaced/Mrk335-0003_cnt.fit file
+-----> Calibrate /home/shoaib/APT/Final_Project/22_10_2023_replaced/Mrk6-0001_B.fit file
+-----> Calibrate /home/shoaib/APT/Final_Project/22_10_2023_replaced/Mrk6-0001_Ha.fit file
+
+-----> Calibrate /home/shoaib/APT/Final_Project/22_10_2023_replaced/Mrk6-0001_R.fit file-----> Calibrate /home/shoaib/APT/Final_Project/22_10_2023_replaced/Mrk6-0001_SII.fit file
+
+-----> Calibrate /home/shoaib/APT/Final_Project/22_10_2023_replaced/Mrk6-0001_V.fit file
+
+-----> Calibrate /home/shoaib/APT/Final_Project/22_10_2023_replaced/Mrk6-0001_cnt.fit file-----> Calibrate /home/shoaib/APT/Final_Project/22_10_2023_replaced/Mrk6-0002_B.fit file
+-----> Calibrate /home/shoaib/APT/Final_Project/22_10_2023_replaced/Mrk6-0002_Ha.fit file
+-----> Calibrate /home/shoaib/APT/Final_Project/22_10_2023_replaced/Mrk6-0002_R.fit file
+
+
+-----> Calibrate /home/shoaib/APT/Final_Project/22_10_2023_replaced/Mrk6-0002_SII.fit file
+-----> Calibrate /home/shoaib/APT/Final_Project/22_10_2023_replaced/Mrk6-0002_V.fit file
+-----> Calibrate /home/shoaib/APT/Final_Project/22_10_2023_replaced/Mrk6-0002_cnt.fit file
+-----> Calibrate /home/shoaib/APT/Final_Project/22_10_2023_replaced/Mrk817-0001_B.fit file
+-----> Calibrate /home/shoaib/APT/Final_Project/22_10_2023_replaced/Mrk817-0001_Ha.fit file
+-----> Calibrate /home/shoaib/APT/Final_Project/22_10_2023_replaced/Mrk817-0001_R.fit file-----> Calibrate /home/shoaib/APT/Final_Project/22_10_2023_replaced/Mrk817-0001_SII.fit file-----> Calibrate /home/shoaib/APT/Final_Project/22_10_2023_replaced/Mrk817-0001_V.fit file-----> Calibrate /home/shoaib/APT/Final_Project/22_10_2023_replaced/Mrk817-0001_cnt.fit file
+
+-----> Calibrate /home/shoaib/APT/Final_Project/22_10_2023_replaced/Mrk817-0002_B.fit file-----> Calibrate /home/shoaib/APT/Final_Project/22_10_2023_replaced/Mrk817-0002_Ha.fit file
+-----> Calibrate /home/shoaib/APT/Final_Project/22_10_2023_replaced/Mrk817-0002_R.fit file
+
+
+
+-----> Calibrate /home/shoaib/APT/Final_Project/22_10_2023_replaced/Mrk817-0002_SII.fit file
+-----> Calibrate /home/shoaib/APT/Final_Project/22_10_2023_replaced/Mrk817-0002_V.fit file
+-----> Calibrate /home/shoaib/APT/Final_Project/22_10_2023_replaced/Mrk817-0002_cnt.fit file-----> Calibrate /home/shoaib/APT/Final_Project/22_10_2023_replaced/Mrk817-0003_B.fit file
+
+-----> Calibrate /home/shoaib/APT/Final_Project/22_10_2023_replaced/Mrk817-0003_Ha.fit file
+-----> Calibrate /home/shoaib/APT/Final_Project/22_10_2023_replaced/Mrk817-0003_R.fit file
+-----> Calibrate /home/shoaib/APT/Final_Project/22_10_2023_replaced/Mrk817-0003_SII.fit file
+-----> Calibrate /home/shoaib/APT/Final_Project/22_10_2023_replaced/Mrk817-0003_V.fit file
+-----> Calibrate /home/shoaib/APT/Final_Project/22_10_2023_replaced/Mrk817-0003_cnt.fit file
+Function calibrate_multiprocess executed in 18.08 seconds
+
+----------------------- BAD PIXEL CORRECTION: 2025-04-21 14:55:57.050483------------------------
+
+
+-----> fixpix Mrk335-0001_R_cal.fit
+    Numer of hot/dead pixels: 2554
+    Numer of cosmic rays: 22
+
+-----> fixpix Mrk335-0001_Ha_cal.fit
+    Numer of hot/dead pixels: 2554
+    Numer of cosmic rays: 241
+
+-----> fixpix Mrk335-0001_SII_cal.fit
+    Numer of hot/dead pixels: 2554
+    Numer of cosmic rays: 267
+
+-----> fixpix Mrk335-0001_V_cal.fit
+    Numer of hot/dead pixels: 2554
+    Numer of cosmic rays: 46
+
+-----> fixpix Mrk335-0002_R_cal.fit
+    Numer of hot/dead pixels: 2554
+    Numer of cosmic rays: 55
+
+-----> fixpix Mrk335-0001_cnt_cal.fit
+    Numer of hot/dead pixels: 2554
+    Numer of cosmic rays: 212
+
+-----> fixpix Mrk335-0001_B_cal.fit
+    Numer of hot/dead pixels: 2554
+    Numer of cosmic rays: 90
+
+-----> fixpix Mrk335-0002_Ha_cal.fit
+    Numer of hot/dead pixels: 2554
+    Numer of cosmic rays: 214
+
+-----> fixpix Mrk6-0001_R_cal.fit
+    Numer of hot/dead pixels: 2554
+    Numer of cosmic rays: 31
+
+-----> fixpix Mrk335-0003_cnt_cal.fit
+    Numer of hot/dead pixels: 2554
+    Numer of cosmic rays: 243
+
+-----> fixpix Mrk335-0002_B_cal.fit
+    Numer of hot/dead pixels: 2554
+    Numer of cosmic rays: 117
+
+-----> fixpix Mrk335-0002_SII_cal.fit
+    Numer of hot/dead pixels: 2554
+    Numer of cosmic rays: 192
+
+-----> fixpix Mrk335-0002_V_cal.fit
+    Numer of hot/dead pixels: 2554
+    Numer of cosmic rays: 76
+
+-----> fixpix Mrk335-0002_cnt_cal.fit
+    Numer of hot/dead pixels: 2554
+    Numer of cosmic rays: 256
+
+-----> fixpix Mrk335-0003_B_cal.fit
+    Numer of hot/dead pixels: 2554
+    Numer of cosmic rays: 114
+
+-----> fixpix Mrk6-0001_V_cal.fit
+    Numer of hot/dead pixels: 2554
+    Numer of cosmic rays: 45
+
+-----> fixpix Mrk335-0003_SII_cal.fit
+    Numer of hot/dead pixels: 2554
+    Numer of cosmic rays: 216
+
+-----> fixpix Mrk6-0001_Ha_cal.fit
+    Numer of hot/dead pixels: 2554
+    Numer of cosmic rays: 261
+
+-----> fixpix Mrk6-0001_cnt_cal.fit
+    Numer of hot/dead pixels: 2554
+    Numer of cosmic rays: 282
+
+-----> fixpix Mrk6-0002_V_cal.fit
+    Numer of hot/dead pixels: 2554
+    Numer of cosmic rays: 51
+
+-----> fixpix Mrk335-0003_R_cal.fit
+    Numer of hot/dead pixels: 2554
+    Numer of cosmic rays: 54
+
+-----> fixpix Mrk6-0002_SII_cal.fit
+    Numer of hot/dead pixels: 2554
+    Numer of cosmic rays: 213
+
+-----> fixpix Mrk6-0002_cnt_cal.fit
+    Numer of hot/dead pixels: 2554
+    Numer of cosmic rays: 200
+
+-----> fixpix Mrk335-0003_Ha_cal.fit
+    Numer of hot/dead pixels: 2554
+    Numer of cosmic rays: 320
+
+-----> fixpix Mrk335-0003_V_cal.fit
+    Numer of hot/dead pixels: 2554
+    Numer of cosmic rays: 84
+
+-----> fixpix Mrk6-0002_B_cal.fit
+    Numer of hot/dead pixels: 2554
+    Numer of cosmic rays: 114
+
+-----> fixpix Mrk6-0001_SII_cal.fit
+    Numer of hot/dead pixels: 2554
+    Numer of cosmic rays: 242
+
+-----> fixpix Mrk6-0001_B_cal.fit
+    Numer of hot/dead pixels: 2554
+    Numer of cosmic rays: 69
+
+-----> fixpix Mrk6-0002_Ha_cal.fit
+    Numer of hot/dead pixels: 2554
+    Numer of cosmic rays: 214
+
+-----> fixpix Mrk817-0001_SII_cal.fit
+    Numer of hot/dead pixels: 2554
+    Numer of cosmic rays: 221
+
+-----> fixpix Mrk6-0002_R_cal.fit
+    Numer of hot/dead pixels: 2554
+    Numer of cosmic rays: 57
+
+-----> fixpix Mrk817-0002_Ha_cal.fit
+    Numer of hot/dead pixels: 2554
+    Numer of cosmic rays: 135
+
+-----> fixpix Mrk817-0002_B_cal.fit
+    Numer of hot/dead pixels: 2554
+    Numer of cosmic rays: 73
+
+-----> fixpix Mrk817-0001_Ha_cal.fit
+    Numer of hot/dead pixels: 2554
+    Numer of cosmic rays: 226
+
+-----> fixpix Mrk817-0001_cnt_cal.fit
+    Numer of hot/dead pixels: 2554
+    Numer of cosmic rays: 199
+
+-----> fixpix Mrk817-0001_V_cal.fit
+    Numer of hot/dead pixels: 2554
+    Numer of cosmic rays: 36
+
+-----> fixpix Mrk817-0002_R_cal.fit
+    Numer of hot/dead pixels: 2554
+    Numer of cosmic rays: 30
+
+-----> fixpix Mrk817-0001_R_cal.fit
+    Numer of hot/dead pixels: 2554
+    Numer of cosmic rays: 15
+
+-----> fixpix Mrk817-0001_B_cal.fit
+    Numer of hot/dead pixels: 2554
+    Numer of cosmic rays: 87
+
+-----> fixpix Mrk817-0002_SII_cal.fit
+    Numer of hot/dead pixels: 2554
+    Numer of cosmic rays: 158
+
+-----> fixpix Mrk817-0003_Ha_cal.fit
+    Numer of hot/dead pixels: 2554
+    Numer of cosmic rays: 175
+
+-----> fixpix Mrk817-0002_cnt_cal.fit
+    Numer of hot/dead pixels: 2554
+    Numer of cosmic rays: 215
+
+-----> fixpix Mrk817-0003_V_cal.fit
+    Numer of hot/dead pixels: 2554
+    Numer of cosmic rays: 42
+
+-----> fixpix Mrk817-0003_cnt_cal.fit
+    Numer of hot/dead pixels: 2554
+    Numer of cosmic rays: 289
+
+-----> fixpix Mrk817-0002_V_cal.fit
+    Numer of hot/dead pixels: 2554
+    Numer of cosmic rays: 52
+
+-----> fixpix Mrk817-0003_R_cal.fit
+    Numer of hot/dead pixels: 2554
+    Numer of cosmic rays: 48
+
+-----> fixpix Mrk817-0003_SII_cal.fit
+    Numer of hot/dead pixels: 2554
+    Numer of cosmic rays: 237
+
+-----> fixpix Mrk817-0003_B_cal.fit
+    Numer of hot/dead pixels: 2554
+    Numer of cosmic rays: 40
+Function fixpix executed in 56.49 seconds
+
+----------------------- SKY-FLAT CALIBRATION: 2025-04-21 14:56:53.545605------------------------
+
+Batch 0 saved to temporary file: /tmp/tmpzxodnytl.npy
+Function makeMasterSKYFLAT_multiprocess executed in 4.88 seconds
+Median to be written into header: 1.0000334
+Making master sky flat: mSkyflat_B.fits
+
+Batch 0 saved to temporary file: /tmp/tmpwjgpfzx0.npy
+Function makeMasterSKYFLAT_multiprocess executed in 5.21 seconds
+Median to be written into header: 1.0002377
+Making master sky flat: mSkyflat_Ha.fits
+
+Batch 0 saved to temporary file: /tmp/tmpd1wfe1n7.npy
+Function makeMasterSKYFLAT_multiprocess executed in 4.89 seconds
+Median to be written into header: 1.0002077
+Making master sky flat: mSkyflat_HaContinuum.fits
+
+Batch 0 saved to temporary file: /tmp/tmpn7eg5tko.npy
+Function makeMasterSKYFLAT_multiprocess executed in 4.95 seconds
+Median to be written into header: 1.0000207
+Making master sky flat: mSkyflat_R.fits
+
+Batch 0 saved to temporary file: /tmp/tmpj10zge1v.npy
+Function makeMasterSKYFLAT_multiprocess executed in 4.94 seconds
+Median to be written into header: 1.0002296
+Making master sky flat: mSkyflat_SII.fits
+
+Batch 0 saved to temporary file: /tmp/tmp8y8gv5_6.npy
+Function makeMasterSKYFLAT_multiprocess executed in 5.06 seconds
+Median to be written into header: 1.0000296
+Making master sky flat: mSkyflat_V.fits
+
+-----> maskerSky calibrate Mrk335-0001_R_cal_fix.fit file-----> maskerSky calibrate Mrk335-0001_Ha_cal_fix.fit file
+-----> maskerSky calibrate Mrk335-0001_SII_cal_fix.fit file
+-----> maskerSky calibrate Mrk335-0001_V_cal_fix.fit file-----> maskerSky calibrate Mrk335-0002_R_cal_fix.fit file
+-----> maskerSky calibrate Mrk335-0001_cnt_cal_fix.fit file-----> maskerSky calibrate Mrk335-0001_B_cal_fix.fit file
+-----> maskerSky calibrate Mrk335-0002_Ha_cal_fix.fit file
+-----> maskerSky calibrate Mrk6-0001_R_cal_fix.fit file
+-----> maskerSky calibrate Mrk335-0003_cnt_cal_fix.fit file
+
+-----> maskerSky calibrate Mrk335-0002_B_cal_fix.fit file-----> maskerSky calibrate Mrk335-0002_SII_cal_fix.fit file
+-----> maskerSky calibrate Mrk335-0002_V_cal_fix.fit file
+
+
+-----> maskerSky calibrate Mrk335-0002_cnt_cal_fix.fit file
+
+-----> maskerSky calibrate Mrk335-0003_B_cal_fix.fit file
+-----> maskerSky calibrate Mrk6-0001_V_cal_fix.fit file
+-----> maskerSky calibrate Mrk335-0003_SII_cal_fix.fit file
+-----> maskerSky calibrate Mrk6-0001_Ha_cal_fix.fit file-----> maskerSky calibrate Mrk6-0001_cnt_cal_fix.fit file
+
+-----> maskerSky calibrate Mrk6-0002_V_cal_fix.fit file
+-----> maskerSky calibrate Mrk335-0003_R_cal_fix.fit file
+-----> maskerSky calibrate Mrk6-0002_SII_cal_fix.fit file
+-----> maskerSky calibrate Mrk6-0002_cnt_cal_fix.fit file-----> maskerSky calibrate Mrk335-0003_Ha_cal_fix.fit file
+
+-----> maskerSky calibrate Mrk335-0003_V_cal_fix.fit file-----> maskerSky calibrate Mrk6-0002_B_cal_fix.fit file
+-----> maskerSky calibrate Mrk6-0001_SII_cal_fix.fit file
+
+-----> maskerSky calibrate Mrk6-0001_B_cal_fix.fit file
+-----> maskerSky calibrate Mrk6-0002_Ha_cal_fix.fit file-----> maskerSky calibrate Mrk817-0001_SII_cal_fix.fit file
+
+-----> maskerSky calibrate Mrk6-0002_R_cal_fix.fit file
+-----> maskerSky calibrate Mrk817-0002_Ha_cal_fix.fit file
+-----> maskerSky calibrate Mrk817-0002_B_cal_fix.fit file
+-----> maskerSky calibrate Mrk817-0001_Ha_cal_fix.fit file
+-----> maskerSky calibrate Mrk817-0001_cnt_cal_fix.fit file
+-----> maskerSky calibrate Mrk817-0001_V_cal_fix.fit file-----> maskerSky calibrate Mrk817-0002_R_cal_fix.fit file
+
+-----> maskerSky calibrate Mrk817-0001_R_cal_fix.fit file
+-----> maskerSky calibrate Mrk817-0001_B_cal_fix.fit file
+-----> maskerSky calibrate Mrk817-0002_SII_cal_fix.fit file-----> maskerSky calibrate Mrk817-0003_Ha_cal_fix.fit file-----> maskerSky calibrate Mrk817-0002_cnt_cal_fix.fit file-----> maskerSky calibrate Mrk817-0003_V_cal_fix.fit file
+
+
+-----> maskerSky calibrate Mrk817-0003_cnt_cal_fix.fit file-----> maskerSky calibrate Mrk817-0002_V_cal_fix.fit file-----> maskerSky calibrate Mrk817-0003_R_cal_fix.fit file-----> maskerSky calibrate Mrk817-0003_SII_cal_fix.fit file-----> maskerSky calibrate Mrk817-0003_B_cal_fix.fit file
+
+
+
+
+
+Function skycalibrate_multiprocess executed in 1.35 seconds
+
+----------------------- CALIBRATION ENDS: 2025-04-21 14:57:25.822845------------------------
+
+
+========= CALIBRATION START: 2025-04-21 15:11:25.400884 ===========
+
+
+----------------------- MAKE MASTER BIAS FRAME: 2025-04-21 15:11:25.400938------------------------
+
+Reading master bias: mBias.fits
+
+
+----------------------- MAKE MASTER DARK FRAME: 2025-04-21 15:11:25.401625------------------------
+
+Reading master dark: mDark_5sec.fits
+
+Reading master dark: mDark_200sec.fits
+
+Reading master dark: mDark_600sec.fits
+
+
+----------------------- MAKE MASTER FLAT FRAME: 2025-04-21 15:11:25.403477------------------------
+
+Reading master flat: mFlat_B.fits
+
+Reading master flat: mFlat_Ha.fits
+
+Reading master flat: mFlat_HaContinuum.fits
+
+Reading master flat: mFlat_R.fits
+
+Reading master flat: mFlat_SII.fits
+
+Reading master flat: mFlat_V.fits
+
+
+----------------------- DO CLASSIC CALIBRATION: 2025-04-21 15:11:25.407106------------------------
+
+Calibration of LIGHT frames is already done
+
+
+----------------------- DO ASTROMETRY: 2025-04-21 15:11:25.408408------------------------
+
+input: 48  solved: 0
+Function astrometry_multiprocess executed in 63.69 seconds
+Astrometry is done.
+
+----------------------- CALIBRATION ENDS: 2025-04-21 15:12:29.097077------------------------
+
+
+========= CALIBRATION START: 2025-04-21 15:14:40.001299 ===========
+
+
+----------------------- MAKE MASTER BIAS FRAME: 2025-04-21 15:14:40.001365------------------------
+
+Reading master bias: mBias.fits
+
+
+----------------------- MAKE MASTER DARK FRAME: 2025-04-21 15:14:40.002097------------------------
+
+Reading master dark: mDark_5sec.fits
+
+Reading master dark: mDark_200sec.fits
+
+Reading master dark: mDark_600sec.fits
+
+
+----------------------- MAKE MASTER FLAT FRAME: 2025-04-21 15:14:40.003943------------------------
+
+Reading master flat: mFlat_B.fits
+
+Reading master flat: mFlat_Ha.fits
+
+Reading master flat: mFlat_HaContinuum.fits
+
+Reading master flat: mFlat_R.fits
+
+Reading master flat: mFlat_SII.fits
+
+Reading master flat: mFlat_V.fits
+
+
+----------------------- DO CLASSIC CALIBRATION: 2025-04-21 15:14:40.007581------------------------
+
+Calibration of LIGHT frames is already done
+
+
+----------------------- DO ASTROMETRY: 2025-04-21 15:14:40.008911------------------------
+
+input: 48  solved: 48
+Astrometry already done.
+
+
+----------------------- DO PHOTOMETRY: 2025-04-21 15:14:40.009842------------------------
+
+Object:: Mrk335
+-------------------
+No. of missing files: 18  (input) - 0 (done) = 18
+Object:: Mrk6
+-------------------
+No. of missing files: 12  (input) - 0 (done) = 12
+Object:: Mrk817
+-------------------
+No. of missing files: 18  (input) - 0 (done) = 18
+
+----------------------- PHOTOMETRY DONE: 2025-04-21 15:14:59.138801------------------------
+
+
+----------------------- CALIBRATION ENDS: 2025-04-21 15:14:59.138906------------------------
+
+
+========= CALIBRATION START: 2025-04-27 20:31:07.641618 ===========
+
+
+----------------------- MAKE MASTER BIAS FRAME: 2025-04-27 20:31:07.641676------------------------
+
+Reading master bias: mBias.fits
+
+
+----------------------- MAKE MASTER DARK FRAME: 2025-04-27 20:31:07.669895------------------------
+
+Reading master dark: mDark_5sec.fits
+
+Reading master dark: mDark_200sec.fits
+
+Reading master dark: mDark_600sec.fits
+
+
+----------------------- MAKE MASTER FLAT FRAME: 2025-04-27 20:31:07.676380------------------------
+
+Reading master flat: mFlat_B.fits
+
+Reading master flat: mFlat_Ha.fits
+
+Reading master flat: mFlat_HaContinuum.fits
+
+Reading master flat: mFlat_R.fits
+
+Reading master flat: mFlat_SII.fits
+
+Reading master flat: mFlat_V.fits
+
+
+----------------------- DO CLASSIC CALIBRATION: 2025-04-27 20:31:07.684899------------------------
+
+Calibration of LIGHT frames is already done
+
+
+----------------------- DO ASTROMETRY: 2025-04-27 20:31:07.686398------------------------
+
+input: 48  solved: 48
+Astrometry already done.
+
+
+----------------------- DO PHOTOMETRY: 2025-04-27 20:31:07.687459------------------------
+
+Object:: Mrk335
+-------------------
+Photometry on Mrk335 is already done.
+
+Object:: Mrk6
+-------------------
+Photometry on Mrk6 is already done.
+
+Object:: Mrk817
+-------------------
+Photometry on Mrk817 is already done.
+
+
+----------------------- PHOTOMETRY DONE: 2025-04-27 20:31:07.688204------------------------
+
+
+----------------------- CALIBRATION ENDS: 2025-04-27 20:31:07.688227------------------------
+
+
+========= CALIBRATION START: 2025-04-28 00:05:41.804632 ===========
+
+
+----------------------- MAKE MASTER BIAS FRAME: 2025-04-28 00:05:41.804686------------------------
+
+Reading master bias: mBias.fits
+
+
+----------------------- MAKE MASTER DARK FRAME: 2025-04-28 00:05:41.805428------------------------
+
+Reading master dark: mDark_5sec.fits
+
+Reading master dark: mDark_200sec.fits
+
+Reading master dark: mDark_600sec.fits
+
+
+----------------------- MAKE MASTER FLAT FRAME: 2025-04-28 00:05:41.807394------------------------
+
+Reading master flat: mFlat_B.fits
+
+Reading master flat: mFlat_Ha.fits
+
+Reading master flat: mFlat_HaContinuum.fits
+
+Reading master flat: mFlat_R.fits
+
+Reading master flat: mFlat_SII.fits
+
+Reading master flat: mFlat_V.fits
+
+
+----------------------- DO CLASSIC CALIBRATION: 2025-04-28 00:05:41.811275------------------------
+
+Calibration of LIGHT frames is already done
+
+
+----------------------- DO ASTROMETRY: 2025-04-28 00:05:41.812634------------------------
+
+input: 48  solved: 48
+Astrometry already done.
+
+
+----------------------- DO PHOTOMETRY: 2025-04-28 00:05:41.813582------------------------
+
+Object:: Mrk335
+-------------------
+No. of missing files: 18  (input) - 0 (done) = 18
+Object:: Mrk6
+-------------------
+No. of missing files: 12  (input) - 0 (done) = 12
+Object:: Mrk817
+-------------------
+No. of missing files: 18  (input) - 0 (done) = 18
+
+----------------------- PHOTOMETRY DONE: 2025-04-28 00:06:01.418874------------------------
+
+
+----------------------- CALIBRATION ENDS: 2025-04-28 00:06:01.419034------------------------
+
+
+========= CALIBRATION START: 2025-04-28 00:06:52.651897 ===========
+
+
+----------------------- MAKE MASTER BIAS FRAME: 2025-04-28 00:06:52.651954------------------------
+
+Reading master bias: mBias.fits
+
+
+----------------------- MAKE MASTER DARK FRAME: 2025-04-28 00:06:52.652631------------------------
+
+Reading master dark: mDark_5sec.fits
+
+Reading master dark: mDark_200sec.fits
+
+Reading master dark: mDark_600sec.fits
+
+
+----------------------- MAKE MASTER FLAT FRAME: 2025-04-28 00:06:52.654456------------------------
+
+Reading master flat: mFlat_B.fits
+
+Reading master flat: mFlat_Ha.fits
+
+Reading master flat: mFlat_HaContinuum.fits
+
+Reading master flat: mFlat_R.fits
+
+Reading master flat: mFlat_SII.fits
+
+Reading master flat: mFlat_V.fits
+
+
+----------------------- DO CLASSIC CALIBRATION: 2025-04-28 00:06:52.658070------------------------
+
+Calibration of LIGHT frames is already done
+
+
+----------------------- DO ASTROMETRY: 2025-04-28 00:06:52.659321------------------------
+
+input: 48  solved: 48
+Astrometry already done.
+
+
+----------------------- DO PHOTOMETRY: 2025-04-28 00:06:52.660237------------------------
+
+Object:: Mrk335
+-------------------
+No. of missing files: 18  (input) - 0 (done) = 18
+Object:: Mrk6
+-------------------
+No. of missing files: 12  (input) - 0 (done) = 12
+Object:: Mrk817
+-------------------
+No. of missing files: 18  (input) - 0 (done) = 18
+
+----------------------- PHOTOMETRY DONE: 2025-04-28 00:07:12.059882------------------------
+
+
+----------------------- CALIBRATION ENDS: 2025-04-28 00:07:12.059983------------------------
+
+
+========= CALIBRATION START: 2025-04-28 00:07:35.671283 ===========
+
+
+----------------------- MAKE MASTER BIAS FRAME: 2025-04-28 00:07:35.671346------------------------
+
+Reading master bias: mBias.fits
+
+
+----------------------- MAKE MASTER DARK FRAME: 2025-04-28 00:07:35.672057------------------------
+
+Reading master dark: mDark_5sec.fits
+
+Reading master dark: mDark_200sec.fits
+
+Reading master dark: mDark_600sec.fits
+
+
+----------------------- MAKE MASTER FLAT FRAME: 2025-04-28 00:07:35.673916------------------------
+
+Reading master flat: mFlat_B.fits
+
+Reading master flat: mFlat_Ha.fits
+
+Reading master flat: mFlat_HaContinuum.fits
+
+Reading master flat: mFlat_R.fits
+
+Reading master flat: mFlat_SII.fits
+
+Reading master flat: mFlat_V.fits
+
+
+----------------------- DO CLASSIC CALIBRATION: 2025-04-28 00:07:35.677539------------------------
+
+Calibration of LIGHT frames is already done
+
+
+----------------------- DO ASTROMETRY: 2025-04-28 00:07:35.679515------------------------
+
+input: 48  solved: 48
+Astrometry already done.
+
+
+----------------------- DO PHOTOMETRY: 2025-04-28 00:07:35.681002------------------------
+
+Object:: Mrk335
+-------------------
+No. of missing files: 18  (input) - 0 (done) = 18
+Object:: Mrk6
+-------------------
+No. of missing files: 12  (input) - 0 (done) = 12
+Object:: Mrk817
+-------------------
+No. of missing files: 18  (input) - 0 (done) = 18
+
+----------------------- PHOTOMETRY DONE: 2025-04-28 00:07:54.851214------------------------
+
+
+----------------------- CALIBRATION ENDS: 2025-04-28 00:07:54.851395------------------------
+
+
+========= CALIBRATION START: 2025-04-28 00:08:38.433223 ===========
+
+
+----------------------- MAKE MASTER BIAS FRAME: 2025-04-28 00:08:38.433280------------------------
+
+Reading master bias: mBias.fits
+
+
+----------------------- MAKE MASTER DARK FRAME: 2025-04-28 00:08:38.433987------------------------
+
+Reading master dark: mDark_5sec.fits
+
+Reading master dark: mDark_200sec.fits
+
+Reading master dark: mDark_600sec.fits
+
+
+----------------------- MAKE MASTER FLAT FRAME: 2025-04-28 00:08:38.435859------------------------
+
+Reading master flat: mFlat_B.fits
+
+Reading master flat: mFlat_Ha.fits
+
+Reading master flat: mFlat_HaContinuum.fits
+
+Reading master flat: mFlat_R.fits
+
+Reading master flat: mFlat_SII.fits
+
+Reading master flat: mFlat_V.fits
+
+
+----------------------- DO CLASSIC CALIBRATION: 2025-04-28 00:08:38.439448------------------------
+
+Calibration of LIGHT frames is already done
+
+
+----------------------- DO ASTROMETRY: 2025-04-28 00:08:38.440667------------------------
+
+input: 48  solved: 48
+Astrometry already done.
+
+
+----------------------- DO PHOTOMETRY: 2025-04-28 00:08:38.441526------------------------
+
+Object:: Mrk335
+-------------------
+No. of missing files: 18  (input) - 0 (done) = 18
+Object:: Mrk6
+-------------------
+No. of missing files: 12  (input) - 0 (done) = 12
+Object:: Mrk817
+-------------------
+No. of missing files: 18  (input) - 0 (done) = 18
+
+----------------------- PHOTOMETRY DONE: 2025-04-28 00:08:59.068427------------------------
+
+
+----------------------- CALIBRATION ENDS: 2025-04-28 00:08:59.068546------------------------
+
+
+========= CALIBRATION START: 2025-04-28 00:09:29.405276 ===========
+
+
+----------------------- MAKE MASTER BIAS FRAME: 2025-04-28 00:09:29.405337------------------------
+
+Reading master bias: mBias.fits
+
+
+----------------------- MAKE MASTER DARK FRAME: 2025-04-28 00:09:29.406101------------------------
+
+Reading master dark: mDark_5sec.fits
+
+Reading master dark: mDark_200sec.fits
+
+Reading master dark: mDark_600sec.fits
+
+
+----------------------- MAKE MASTER FLAT FRAME: 2025-04-28 00:09:29.408054------------------------
+
+Reading master flat: mFlat_B.fits
+
+Reading master flat: mFlat_Ha.fits
+
+Reading master flat: mFlat_HaContinuum.fits
+
+Reading master flat: mFlat_R.fits
+
+Reading master flat: mFlat_SII.fits
+
+Reading master flat: mFlat_V.fits
+
+
+----------------------- DO CLASSIC CALIBRATION: 2025-04-28 00:09:29.411967------------------------
+
+Calibration of LIGHT frames is already done
+
+
+----------------------- DO ASTROMETRY: 2025-04-28 00:09:29.413354------------------------
+
+input: 48  solved: 48
+Astrometry already done.
+
+
+----------------------- DO PHOTOMETRY: 2025-04-28 00:09:29.414222------------------------
+
+Object:: Mrk335
+-------------------
+No. of missing files: 18  (input) - 0 (done) = 18
+Object:: Mrk6
+-------------------
+No. of missing files: 12  (input) - 0 (done) = 12
+Object:: Mrk817
+-------------------
+No. of missing files: 18  (input) - 0 (done) = 18
+
+----------------------- PHOTOMETRY DONE: 2025-04-28 00:09:48.390882------------------------
+
+
+----------------------- CALIBRATION ENDS: 2025-04-28 00:09:48.391095------------------------
+
+
+========= CALIBRATION START: 2025-04-28 00:10:15.522575 ===========
+
+
+----------------------- MAKE MASTER BIAS FRAME: 2025-04-28 00:10:15.522631------------------------
+
+Reading master bias: mBias.fits
+
+
+----------------------- MAKE MASTER DARK FRAME: 2025-04-28 00:10:15.523346------------------------
+
+Reading master dark: mDark_5sec.fits
+
+Reading master dark: mDark_200sec.fits
+
+Reading master dark: mDark_600sec.fits
+
+
+----------------------- MAKE MASTER FLAT FRAME: 2025-04-28 00:10:15.525234------------------------
+
+Reading master flat: mFlat_B.fits
+
+Reading master flat: mFlat_Ha.fits
+
+Reading master flat: mFlat_HaContinuum.fits
+
+Reading master flat: mFlat_R.fits
+
+Reading master flat: mFlat_SII.fits
+
+Reading master flat: mFlat_V.fits
+
+
+----------------------- DO CLASSIC CALIBRATION: 2025-04-28 00:10:15.529028------------------------
+
+Calibration of LIGHT frames is already done
+
+
+----------------------- DO ASTROMETRY: 2025-04-28 00:10:15.530378------------------------
+
+input: 48  solved: 48
+Astrometry already done.
+
+
+----------------------- DO PHOTOMETRY: 2025-04-28 00:10:15.531252------------------------
+
+Object:: Mrk335
+-------------------
+No. of missing files: 18  (input) - 0 (done) = 18
+Object:: Mrk6
+-------------------
+No. of missing files: 12  (input) - 0 (done) = 12
+Object:: Mrk817
+-------------------
+No. of missing files: 18  (input) - 0 (done) = 18
+
+----------------------- PHOTOMETRY DONE: 2025-04-28 00:10:35.368989------------------------
+
+
+----------------------- CALIBRATION ENDS: 2025-04-28 00:10:35.369079------------------------
+
+
+========= CALIBRATION START: 2025-04-28 00:11:04.499416 ===========
+
+
+----------------------- MAKE MASTER BIAS FRAME: 2025-04-28 00:11:04.499475------------------------
+
+Reading master bias: mBias.fits
+
+
+----------------------- MAKE MASTER DARK FRAME: 2025-04-28 00:11:04.500175------------------------
+
+Reading master dark: mDark_5sec.fits
+
+Reading master dark: mDark_200sec.fits
+
+Reading master dark: mDark_600sec.fits
+
+
+----------------------- MAKE MASTER FLAT FRAME: 2025-04-28 00:11:04.502028------------------------
+
+Reading master flat: mFlat_B.fits
+
+Reading master flat: mFlat_Ha.fits
+
+Reading master flat: mFlat_HaContinuum.fits
+
+Reading master flat: mFlat_R.fits
+
+Reading master flat: mFlat_SII.fits
+
+Reading master flat: mFlat_V.fits
+
+
+----------------------- DO CLASSIC CALIBRATION: 2025-04-28 00:11:04.505728------------------------
+
+Calibration of LIGHT frames is already done
+
+
+----------------------- DO ASTROMETRY: 2025-04-28 00:11:04.507107------------------------
+
+input: 48  solved: 48
+Astrometry already done.
+
+
+----------------------- DO PHOTOMETRY: 2025-04-28 00:11:04.507968------------------------
+
+Object:: Mrk335
+-------------------
+No. of missing files: 18  (input) - 0 (done) = 18
+Object:: Mrk6
+-------------------
+No. of missing files: 12  (input) - 0 (done) = 12
+Object:: Mrk817
+-------------------
+No. of missing files: 18  (input) - 0 (done) = 18
+
+----------------------- PHOTOMETRY DONE: 2025-04-28 00:11:24.157775------------------------
+
+
+----------------------- CALIBRATION ENDS: 2025-04-28 00:11:24.157917------------------------
+
+
+========= CALIBRATION START: 2025-04-28 00:12:00.511764 ===========
+
+
+----------------------- MAKE MASTER BIAS FRAME: 2025-04-28 00:12:00.511826------------------------
+
+Reading master bias: mBias.fits
+
+
+----------------------- MAKE MASTER DARK FRAME: 2025-04-28 00:12:00.512572------------------------
+
+Reading master dark: mDark_5sec.fits
+
+Reading master dark: mDark_200sec.fits
+
+Reading master dark: mDark_600sec.fits
+
+
+----------------------- MAKE MASTER FLAT FRAME: 2025-04-28 00:12:00.514536------------------------
+
+Reading master flat: mFlat_B.fits
+
+Reading master flat: mFlat_Ha.fits
+
+Reading master flat: mFlat_HaContinuum.fits
+
+Reading master flat: mFlat_R.fits
+
+Reading master flat: mFlat_SII.fits
+
+Reading master flat: mFlat_V.fits
+
+
+----------------------- DO CLASSIC CALIBRATION: 2025-04-28 00:12:00.518339------------------------
+
+Calibration of LIGHT frames is already done
+
+
+----------------------- DO ASTROMETRY: 2025-04-28 00:12:00.519709------------------------
+
+input: 48  solved: 48
+Astrometry already done.
+
+
+----------------------- DO PHOTOMETRY: 2025-04-28 00:12:00.520659------------------------
+
+Object:: Mrk335
+-------------------
+No. of missing files: 18  (input) - 0 (done) = 18
+Object:: Mrk6
+-------------------
+No. of missing files: 12  (input) - 0 (done) = 12
+Object:: Mrk817
+-------------------
+No. of missing files: 18  (input) - 0 (done) = 18
+
+----------------------- PHOTOMETRY DONE: 2025-04-28 00:12:20.636722------------------------
+
+
+----------------------- CALIBRATION ENDS: 2025-04-28 00:12:20.636818------------------------
+
+
+========= CALIBRATION START: 2025-05-10 21:10:16.295367 ===========
+
+
+----------------------- MAKE MASTER BIAS FRAME: 2025-05-10 21:10:16.295433------------------------
+
+Reading master bias: mBias.fits
+
+
+----------------------- MAKE MASTER DARK FRAME: 2025-05-10 21:10:16.344092------------------------
+
+Reading master dark: mDark_5sec.fits
+
+Reading master dark: mDark_200sec.fits
+
+Reading master dark: mDark_600sec.fits
+
+
+----------------------- MAKE MASTER FLAT FRAME: 2025-05-10 21:10:16.350486------------------------
+
+Reading master flat: mFlat_B.fits
+
+Reading master flat: mFlat_Ha.fits
+
+Reading master flat: mFlat_HaContinuum.fits
+
+Reading master flat: mFlat_R.fits
+
+Reading master flat: mFlat_SII.fits
+
+Reading master flat: mFlat_V.fits
+
+
+----------------------- DO CLASSIC CALIBRATION: 2025-05-10 21:10:16.357639------------------------
+
+Calibration of LIGHT frames is already done
+
+
+----------------------- DO ASTROMETRY: 2025-05-10 21:10:16.359330------------------------
+
+input: 48  solved: 48
+Astrometry already done.
+
+
+----------------------- DO PHOTOMETRY: 2025-05-10 21:10:16.360515------------------------
+
+Object:: Mrk335
+-------------------
+No. of missing files: 18  (input) - 0 (done) = 18
+Object:: Mrk6
+-------------------
+Object:: Mrk817
+-------------------
+No. of missing files: 18  (input) - 0 (done) = 18
+
+----------------------- PHOTOMETRY DONE: 2025-05-10 21:10:37.958969------------------------
+
+
+----------------------- CALIBRATION ENDS: 2025-05-10 21:10:37.959084------------------------
+
