@@ -1,0 +1,36 @@
+
+Nov 29 16:22: IMCOMBINE
+  combine = average, scale = none, zero = none, weight = none
+  reject = minmax, nlow = 0, nhigh = 1
+  blank = 0.
+                Images 
+          AF507042.fits
+          AF507043.fits
+          AF507044.fits
+          AF507045.fits
+          AF507046.fits
+          AF507047.fits
+          AF507048.fits
+          AF507049.fits
+          AF507050.fits
+          AF507051.fits
+
+  Output image = M_bias, ncombine = 10
+
+Nov 29 16:26: IMCOMBINE
+  combine = average, scale = none, zero = none, weight = none
+  reject = minmax, nlow = 0, nhigh = 1
+  blank = 0.
+                Images 
+          AF507042.fits
+          AF507043.fits
+          AF507044.fits
+          AF507045.fits
+          AF507046.fits
+          AF507047.fits
+          AF507048.fits
+          AF507049.fits
+          AF507050.fits
+          AF507051.fits
+
+  Output image = M_bias, ncombine = 10

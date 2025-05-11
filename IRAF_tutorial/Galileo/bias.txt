@@ -1,0 +1,10 @@
+IMA72837.fits   
+IMA72838.fits   
+IMA72839.fits   
+IMA72840.fits   
+IMA72841.fits   
+IMA72842.fits   
+IMA72843.fits   
+IMA72844.fits   
+IMA72845.fits   
+IMA72846.fits   
