@@ -1,0 +1,10 @@
+AF507058_bias.fits
+AF507059_bias.fits
+AF507060_bias.fits
+AF507061_bias.fits
+AF507062_bias.fits
+AF507063_bias.fits
+AF507064_bias.fits
+AF507065_bias.fits
+AF507066_bias.fits
+AF507067_bias.fits

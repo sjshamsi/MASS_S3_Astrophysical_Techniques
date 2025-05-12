@@ -34,3 +34,922 @@ Nov 29 16:26: IMCOMBINE
           AF507051.fits
 
   Output image = M_bias, ncombine = 10
+
+May 11 20:32: IMCOMBINE
+  combine = average, scale = none, zero = none, weight = none
+  reject = minmax, nlow = 0, nhigh = 1
+  blank = 0.
+                Images 
+          AF507042.fits
+          AF507043.fits
+          AF507044.fits
+          AF507045.fits
+          AF507046.fits
+          AF507047.fits
+          AF507048.fits
+          AF507049.fits
+          AF507050.fits
+          AF507051.fits
+
+  Output image = M_bias, ncombine = 10
+AF507042.fits: May 11 21:11 Trim data section is [26:2065,7:2044]
+M_bias: May 11 21:11 Trim data section is [26:2065,7:2044]
+AF507042.fits: May 11 21:11 Zero level correction image is M_bias
+AF507043.fits: May 11 21:11 Trim data section is [26:2065,7:2044]
+AF507043.fits: May 11 21:11 Zero level correction image is M_bias
+AF507044.fits: May 11 21:11 Trim data section is [26:2065,7:2044]
+AF507044.fits: May 11 21:11 Zero level correction image is M_bias
+AF507045.fits: May 11 21:11 Trim data section is [26:2065,7:2044]
+AF507045.fits: May 11 21:11 Zero level correction image is M_bias
+AF507046.fits: May 11 21:11 Trim data section is [26:2065,7:2044]
+AF507046.fits: May 11 21:11 Zero level correction image is M_bias
+AF507047.fits: May 11 21:11 Trim data section is [26:2065,7:2044]
+AF507047.fits: May 11 21:11 Zero level correction image is M_bias
+AF507048.fits: May 11 21:11 Trim data section is [26:2065,7:2044]
+AF507048.fits: May 11 21:11 Zero level correction image is M_bias
+AF507049.fits: May 11 21:11 Trim data section is [26:2065,7:2044]
+AF507049.fits: May 11 21:11 Zero level correction image is M_bias
+AF507050.fits: May 11 21:11 Trim data section is [26:2065,7:2044]
+AF507050.fits: May 11 21:11 Zero level correction image is M_bias
+AF507051.fits: May 11 21:11 Trim data section is [26:2065,7:2044]
+AF507051.fits: May 11 21:11 Zero level correction image is M_bias
+AF507052.fits: May 11 21:11 Trim data section is [26:2065,7:2044]
+AF507052.fits: May 11 21:11 Zero level correction image is M_bias
+AF507053.fits: May 11 21:11 Trim data section is [26:2065,7:2044]
+AF507053.fits: May 11 21:11 Zero level correction image is M_bias
+AF507054.fits: May 11 21:11 Trim data section is [26:2065,7:2044]
+AF507054.fits: May 11 21:11 Zero level correction image is M_bias
+AF507055.fits: May 11 21:11 Trim data section is [26:2065,7:2044]
+AF507055.fits: May 11 21:11 Zero level correction image is M_bias
+AF507056.fits: May 11 21:11 Trim data section is [26:2065,7:2044]
+AF507056.fits: May 11 21:11 Zero level correction image is M_bias
+AF507057.fits: May 11 21:11 Trim data section is [26:2065,7:2044]
+AF507057.fits: May 11 21:11 Zero level correction image is M_bias
+AF507058.fits: May 11 21:11 Trim data section is [26:2065,7:2044]
+AF507058.fits: May 11 21:11 Zero level correction image is M_bias
+AF507059.fits: May 11 21:11 Trim data section is [26:2065,7:2044]
+AF507059.fits: May 11 21:11 Zero level correction image is M_bias
+AF507060.fits: May 11 21:11 Trim data section is [26:2065,7:2044]
+AF507060.fits: May 11 21:11 Zero level correction image is M_bias
+AF507061.fits: May 11 21:11 Trim data section is [26:2065,7:2044]
+AF507061.fits: May 11 21:11 Zero level correction image is M_bias
+AF507062.fits: May 11 21:11 Trim data section is [26:2065,7:2044]
+AF507062.fits: May 11 21:11 Zero level correction image is M_bias
+AF507063.fits: May 11 21:11 Trim data section is [26:2065,7:2044]
+AF507063.fits: May 11 21:11 Zero level correction image is M_bias
+AF507064.fits: May 11 21:11 Trim data section is [26:2065,7:2044]
+AF507064.fits: May 11 21:11 Zero level correction image is M_bias
+AF507065.fits: May 11 21:11 Trim data section is [26:2065,7:2044]
+AF507065.fits: May 11 21:11 Zero level correction image is M_bias
+AF507066.fits: May 11 21:11 Trim data section is [26:2065,7:2044]
+AF507066.fits: May 11 21:11 Zero level correction image is M_bias
+AF507067.fits: May 11 21:11 Trim data section is [26:2065,7:2044]
+AF507067.fits: May 11 21:11 Zero level correction image is M_bias
+AF507068.fits: May 11 21:11 Trim data section is [26:2065,7:2044]
+AF507068.fits: May 11 21:11 Zero level correction image is M_bias
+AF507069.fits: May 11 21:11 Trim data section is [26:2065,7:2044]
+AF507069.fits: May 11 21:11 Zero level correction image is M_bias
+AF507070.fits: May 11 21:11 Trim data section is [26:2065,7:2044]
+AF507070.fits: May 11 21:11 Zero level correction image is M_bias
+AF507071.fits: May 11 21:11 Trim data section is [26:2065,7:2044]
+AF507071.fits: May 11 21:11 Zero level correction image is M_bias
+AF507072.fits: May 11 21:11 Trim data section is [26:2065,7:2044]
+AF507072.fits: May 11 21:11 Zero level correction image is M_bias
+AF507073.fits: May 11 21:11 Trim data section is [26:2065,7:2044]
+AF507073.fits: May 11 21:11 Zero level correction image is M_bias
+AF507074.fits: May 11 21:11 Trim data section is [26:2065,7:2044]
+AF507074.fits: May 11 21:11 Zero level correction image is M_bias
+AF507075.fits: May 11 21:11 Trim data section is [26:2065,7:2044]
+AF507075.fits: May 11 21:11 Zero level correction image is M_bias
+AF507076.fits: May 11 21:11 Trim data section is [26:2065,7:2044]
+AF507076.fits: May 11 21:11 Zero level correction image is M_bias
+AF507077.fits: May 11 21:11 Trim data section is [26:2065,7:2044]
+AF507077.fits: May 11 21:11 Zero level correction image is M_bias
+AF507078.fits: May 11 21:11 Trim data section is [26:2065,7:2044]
+AF507078.fits: May 11 21:11 Zero level correction image is M_bias
+AF507079.fits: May 11 21:11 Trim data section is [26:2065,7:2044]
+AF507079.fits: May 11 21:11 Zero level correction image is M_bias
+AF507080.fits: May 11 21:11 Trim data section is [26:2065,7:2044]
+AF507080.fits: May 11 21:11 Zero level correction image is M_bias
+AF507081.fits: May 11 21:11 Trim data section is [26:2065,7:2044]
+AF507081.fits: May 11 21:11 Zero level correction image is M_bias
+AF507082.fits: May 11 21:11 Trim data section is [26:2065,7:2044]
+AF507082.fits: May 11 21:11 Zero level correction image is M_bias
+AF507083.fits: May 11 21:11 Trim data section is [26:2065,7:2044]
+AF507083.fits: May 11 21:11 Zero level correction image is M_bias
+AF507084.fits: May 11 21:11 Trim data section is [26:2065,7:2044]
+AF507084.fits: May 11 21:11 Zero level correction image is M_bias
+AF507085.fits: May 11 21:11 Trim data section is [26:2065,7:2044]
+AF507085.fits: May 11 21:11 Zero level correction image is M_bias
+AF507086.fits: May 11 21:11 Trim data section is [26:2065,7:2044]
+AF507086.fits: May 11 21:11 Zero level correction image is M_bias
+AF507087.fits: May 11 21:11 Trim data section is [26:2065,7:2044]
+AF507087.fits: May 11 21:11 Zero level correction image is M_bias
+AF507088.fits: May 11 21:11 Trim data section is [26:2065,7:2044]
+AF507088.fits: May 11 21:11 Zero level correction image is M_bias
+AF507089.fits: May 11 21:11 Trim data section is [26:2065,7:2044]
+AF507089.fits: May 11 21:11 Zero level correction image is M_bias
+AF507090.fits: May 11 21:11 Trim data section is [26:2065,7:2044]
+AF507090.fits: May 11 21:11 Zero level correction image is M_bias
+AF507091.fits: May 11 21:11 Trim data section is [26:2065,7:2044]
+AF507091.fits: May 11 21:11 Zero level correction image is M_bias
+AF507092.fits: May 11 21:11 Trim data section is [26:2065,7:2044]
+AF507092.fits: May 11 21:11 Zero level correction image is M_bias
+AF507093.fits: May 11 21:11 Trim data section is [26:2065,7:2044]
+AF507093.fits: May 11 21:11 Zero level correction image is M_bias
+AF507094.fits: May 11 21:11 Trim data section is [26:2065,7:2044]
+AF507094.fits: May 11 21:11 Zero level correction image is M_bias
+AF507095.fits: May 11 21:11 Trim data section is [26:2065,7:2044]
+AF507095.fits: May 11 21:11 Zero level correction image is M_bias
+AF507096.fits: May 11 21:11 Trim data section is [26:2065,7:2044]
+AF507096.fits: May 11 21:11 Zero level correction image is M_bias
+AF507097.fits: May 11 21:11 Trim data section is [26:2065,7:2044]
+AF507097.fits: May 11 21:11 Zero level correction image is M_bias
+AF507098.fits: May 11 21:11 Trim data section is [26:2065,7:2044]
+AF507098.fits: May 11 21:11 Zero level correction image is M_bias
+AF507099.fits: May 11 21:11 Trim data section is [26:2065,7:2044]
+AF507099.fits: May 11 21:11 Zero level correction image is M_bias
+AF507100.fits: May 11 21:11 Trim data section is [26:2065,7:2044]
+AF507100.fits: May 11 21:11 Zero level correction image is M_bias
+AF507101.fits: May 11 21:11 Trim data section is [26:2065,7:2044]
+AF507101.fits: May 11 21:11 Zero level correction image is M_bias
+AF507102.fits: May 11 21:11 Trim data section is [26:2065,7:2044]
+AF507102.fits: May 11 21:11 Zero level correction image is M_bias
+AF507103.fits: May 11 21:11 Trim data section is [26:2065,7:2044]
+AF507103.fits: May 11 21:11 Zero level correction image is M_bias
+AF507104.fits: May 11 21:11 Trim data section is [26:2065,7:2044]
+AF507104.fits: May 11 21:11 Zero level correction image is M_bias
+AF507105.fits: May 11 21:11 Trim data section is [26:2065,7:2044]
+AF507105.fits: May 11 21:11 Zero level correction image is M_bias
+AF507106.fits: May 11 21:11 Trim data section is [26:2065,7:2044]
+AF507106.fits: May 11 21:11 Zero level correction image is M_bias
+AF507107.fits: May 11 21:11 Trim data section is [26:2065,7:2044]
+AF507107.fits: May 11 21:11 Zero level correction image is M_bias
+AF507108.fits: May 11 21:11 Trim data section is [26:2065,7:2044]
+AF507108.fits: May 11 21:11 Zero level correction image is M_bias
+AF507109.fits: May 11 21:11 Trim data section is [26:2065,7:2044]
+AF507109.fits: May 11 21:11 Zero level correction image is M_bias
+AF507110.fits: May 11 21:11 Trim data section is [26:2065,7:2044]
+AF507110.fits: May 11 21:11 Zero level correction image is M_bias
+
+May 11 21:36: IMCOMBINE
+  combine = average, scale = mode, zero = none, weight = none
+  reject = crreject, mclip = yes, nkeep = 1
+  rdnoise = rdnoise, gain = gain, snoise = 0., hsigma = 3.
+  blank = 1.
+                Images     Mode Rdnoise   Gain  Scale
+     AF507058_bias.fits  23502.     7.1   1.91  0.994
+     AF507059_bias.fits  23525.     7.1   1.91  0.993
+     AF507060_bias.fits  23230.     7.1   1.91  1.005
+     AF507061_bias.fits  23395.     7.1   1.91  0.998
+     AF507062_bias.fits  23233.     7.1   1.91  1.005
+     AF507063_bias.fits  23204.     7.1   1.91  1.007
+     AF507064_bias.fits  23255.     7.1   1.91  1.004
+     AF507065_bias.fits  23417.     7.1   1.91  0.997
+     AF507066_bias.fits  23508.     7.1   1.91  0.993
+     AF507067_bias.fits  23284.     7.1   1.91  1.003
+
+  Output image = M_flat, ncombine = 10
+AF507042_bias.fits: May 11 22:21 Flat field image is flat_response with scale=1.
+AF507043_bias.fits: May 11 22:21 Flat field image is flat_response with scale=1.
+AF507044_bias.fits: May 11 22:21 Flat field image is flat_response with scale=1.
+AF507045_bias.fits: May 11 22:21 Flat field image is flat_response with scale=1.
+AF507046_bias.fits: May 11 22:21 Flat field image is flat_response with scale=1.
+AF507047_bias.fits: May 11 22:21 Flat field image is flat_response with scale=1.
+AF507048_bias.fits: May 11 22:21 Flat field image is flat_response with scale=1.
+AF507049_bias.fits: May 11 22:21 Flat field image is flat_response with scale=1.
+AF507050_bias.fits: May 11 22:21 Flat field image is flat_response with scale=1.
+AF507051_bias.fits: May 11 22:21 Flat field image is flat_response with scale=1.
+AF507052_bias.fits: May 11 22:21 Flat field image is flat_response with scale=1.
+AF507053_bias.fits: May 11 22:21 Flat field image is flat_response with scale=1.
+AF507054_bias.fits: May 11 22:21 Flat field image is flat_response with scale=1.
+AF507055_bias.fits: May 11 22:21 Flat field image is flat_response with scale=1.
+AF507056_bias.fits: May 11 22:21 Flat field image is flat_response with scale=1.
+AF507057_bias.fits: May 11 22:21 Flat field image is flat_response with scale=1.
+AF507058_bias.fits: May 11 22:21 Flat field image is flat_response with scale=1.
+AF507059_bias.fits: May 11 22:21 Flat field image is flat_response with scale=1.
+AF507060_bias.fits: May 11 22:21 Flat field image is flat_response with scale=1.
+AF507061_bias.fits: May 11 22:21 Flat field image is flat_response with scale=1.
+AF507062_bias.fits: May 11 22:21 Flat field image is flat_response with scale=1.
+AF507063_bias.fits: May 11 22:21 Flat field image is flat_response with scale=1.
+AF507064_bias.fits: May 11 22:21 Flat field image is flat_response with scale=1.
+AF507065_bias.fits: May 11 22:21 Flat field image is flat_response with scale=1.
+AF507066_bias.fits: May 11 22:21 Flat field image is flat_response with scale=1.
+AF507067_bias.fits: May 11 22:21 Flat field image is flat_response with scale=1.
+AF507068_bias.fits: May 11 22:21 Flat field image is flat_response with scale=1.
+AF507069_bias.fits: May 11 22:21 Flat field image is flat_response with scale=1.
+AF507070_bias.fits: May 11 22:21 Flat field image is flat_response with scale=1.
+AF507071_bias.fits: May 11 22:21 Flat field image is flat_response with scale=1.
+AF507072_bias.fits: May 11 22:21 Flat field image is flat_response with scale=1.
+AF507073_bias.fits: May 11 22:21 Flat field image is flat_response with scale=1.
+AF507074_bias.fits: May 11 22:21 Flat field image is flat_response with scale=1.
+AF507075_bias.fits: May 11 22:21 Flat field image is flat_response with scale=1.
+AF507076_bias.fits: May 11 22:21 Flat field image is flat_response with scale=1.
+AF507077_bias.fits: May 11 22:21 Flat field image is flat_response with scale=1.
+AF507078_bias.fits: May 11 22:21 Flat field image is flat_response with scale=1.
+AF507079_bias.fits: May 11 22:21 Flat field image is flat_response with scale=1.
+AF507080_bias.fits: May 11 22:21 Flat field image is flat_response with scale=1.
+AF507081_bias.fits: May 11 22:21 Flat field image is flat_response with scale=1.
+AF507082_bias.fits: May 11 22:21 Flat field image is flat_response with scale=1.
+AF507083_bias.fits: May 11 22:21 Flat field image is flat_response with scale=1.
+AF507084_bias.fits: May 11 22:21 Flat field image is flat_response with scale=1.
+AF507085_bias.fits: May 11 22:21 Flat field image is flat_response with scale=1.
+AF507086_bias.fits: May 11 22:21 Flat field image is flat_response with scale=1.
+AF507087_bias.fits: May 11 22:21 Flat field image is flat_response with scale=1.
+AF507088_bias.fits: May 11 22:21 Flat field image is flat_response with scale=1.
+AF507089_bias.fits: May 11 22:21 Flat field image is flat_response with scale=1.
+AF507090_bias.fits: May 11 22:22 Flat field image is flat_response with scale=1.
+AF507091_bias.fits: May 11 22:22 Flat field image is flat_response with scale=1.
+AF507092_bias.fits: May 11 22:22 Flat field image is flat_response with scale=1.
+AF507093_bias.fits: May 11 22:22 Flat field image is flat_response with scale=1.
+AF507094_bias.fits: May 11 22:22 Flat field image is flat_response with scale=1.
+AF507095_bias.fits: May 11 22:22 Flat field image is flat_response with scale=1.
+AF507096_bias.fits: May 11 22:22 Flat field image is flat_response with scale=1.
+AF507097_bias.fits: May 11 22:22 Flat field image is flat_response with scale=1.
+AF507098_bias.fits: May 11 22:22 Flat field image is flat_response with scale=1.
+AF507099_bias.fits: May 11 22:22 Flat field image is flat_response with scale=1.
+AF507100_bias.fits: May 11 22:22 Flat field image is flat_response with scale=1.
+AF507101_bias.fits: May 11 22:22 Flat field image is flat_response with scale=1.
+AF507102_bias.fits: May 11 22:22 Flat field image is flat_response with scale=1.
+AF507103_bias.fits: May 11 22:22 Flat field image is flat_response with scale=1.
+AF507104_bias.fits: May 11 22:22 Flat field image is flat_response with scale=1.
+AF507105_bias.fits: May 11 22:22 Flat field image is flat_response with scale=1.
+AF507106_bias.fits: May 11 22:22 Flat field image is flat_response with scale=1.
+AF507107_bias.fits: May 11 22:22 Flat field image is flat_response with scale=1.
+AF507108_bias.fits: May 11 22:22 Flat field image is flat_response with scale=1.
+AF507109_bias.fits: May 11 22:22 Flat field image is flat_response with scale=1.
+AF507110_bias.fits: May 11 22:22 Flat field image is flat_response with scale=1.
+AF507042_bias.fits: May 11 22:36 Flat field image is flat_response_o5 with scale=1.
+AF507043_bias.fits: May 11 22:36 Flat field image is flat_response_o5 with scale=1.
+AF507044_bias.fits: May 11 22:36 Flat field image is flat_response_o5 with scale=1.
+AF507045_bias.fits: May 11 22:36 Flat field image is flat_response_o5 with scale=1.
+AF507046_bias.fits: May 11 22:36 Flat field image is flat_response_o5 with scale=1.
+AF507047_bias.fits: May 11 22:36 Flat field image is flat_response_o5 with scale=1.
+AF507048_bias.fits: May 11 22:36 Flat field image is flat_response_o5 with scale=1.
+AF507049_bias.fits: May 11 22:36 Flat field image is flat_response_o5 with scale=1.
+AF507050_bias.fits: May 11 22:36 Flat field image is flat_response_o5 with scale=1.
+AF507051_bias.fits: May 11 22:36 Flat field image is flat_response_o5 with scale=1.
+AF507052_bias.fits: May 11 22:36 Flat field image is flat_response_o5 with scale=1.
+AF507053_bias.fits: May 11 22:36 Flat field image is flat_response_o5 with scale=1.
+AF507054_bias.fits: May 11 22:36 Flat field image is flat_response_o5 with scale=1.
+AF507055_bias.fits: May 11 22:36 Flat field image is flat_response_o5 with scale=1.
+AF507056_bias.fits: May 11 22:36 Flat field image is flat_response_o5 with scale=1.
+AF507057_bias.fits: May 11 22:36 Flat field image is flat_response_o5 with scale=1.
+AF507058_bias.fits: May 11 22:36 Flat field image is flat_response_o5 with scale=1.
+AF507059_bias.fits: May 11 22:36 Flat field image is flat_response_o5 with scale=1.
+AF507060_bias.fits: May 11 22:36 Flat field image is flat_response_o5 with scale=1.
+AF507061_bias.fits: May 11 22:36 Flat field image is flat_response_o5 with scale=1.
+AF507062_bias.fits: May 11 22:36 Flat field image is flat_response_o5 with scale=1.
+AF507063_bias.fits: May 11 22:36 Flat field image is flat_response_o5 with scale=1.
+AF507064_bias.fits: May 11 22:36 Flat field image is flat_response_o5 with scale=1.
+AF507065_bias.fits: May 11 22:36 Flat field image is flat_response_o5 with scale=1.
+AF507066_bias.fits: May 11 22:36 Flat field image is flat_response_o5 with scale=1.
+AF507067_bias.fits: May 11 22:36 Flat field image is flat_response_o5 with scale=1.
+AF507068_bias.fits: May 11 22:36 Flat field image is flat_response_o5 with scale=1.
+AF507069_bias.fits: May 11 22:36 Flat field image is flat_response_o5 with scale=1.
+AF507070_bias.fits: May 11 22:36 Flat field image is flat_response_o5 with scale=1.
+AF507071_bias.fits: May 11 22:36 Flat field image is flat_response_o5 with scale=1.
+AF507072_bias.fits: May 11 22:36 Flat field image is flat_response_o5 with scale=1.
+AF507073_bias.fits: May 11 22:36 Flat field image is flat_response_o5 with scale=1.
+AF507074_bias.fits: May 11 22:36 Flat field image is flat_response_o5 with scale=1.
+AF507075_bias.fits: May 11 22:36 Flat field image is flat_response_o5 with scale=1.
+AF507076_bias.fits: May 11 22:36 Flat field image is flat_response_o5 with scale=1.
+AF507077_bias.fits: May 11 22:36 Flat field image is flat_response_o5 with scale=1.
+AF507078_bias.fits: May 11 22:36 Flat field image is flat_response_o5 with scale=1.
+AF507079_bias.fits: May 11 22:36 Flat field image is flat_response_o5 with scale=1.
+AF507080_bias.fits: May 11 22:36 Flat field image is flat_response_o5 with scale=1.
+AF507081_bias.fits: May 11 22:36 Flat field image is flat_response_o5 with scale=1.
+AF507082_bias.fits: May 11 22:36 Flat field image is flat_response_o5 with scale=1.
+AF507083_bias.fits: May 11 22:36 Flat field image is flat_response_o5 with scale=1.
+AF507084_bias.fits: May 11 22:36 Flat field image is flat_response_o5 with scale=1.
+AF507085_bias.fits: May 11 22:36 Flat field image is flat_response_o5 with scale=1.
+AF507086_bias.fits: May 11 22:36 Flat field image is flat_response_o5 with scale=1.
+AF507087_bias.fits: May 11 22:36 Flat field image is flat_response_o5 with scale=1.
+AF507088_bias.fits: May 11 22:36 Flat field image is flat_response_o5 with scale=1.
+AF507089_bias.fits: May 11 22:36 Flat field image is flat_response_o5 with scale=1.
+AF507090_bias.fits: May 11 22:36 Flat field image is flat_response_o5 with scale=1.
+AF507091_bias.fits: May 11 22:36 Flat field image is flat_response_o5 with scale=1.
+AF507092_bias.fits: May 11 22:36 Flat field image is flat_response_o5 with scale=1.
+AF507093_bias.fits: May 11 22:36 Flat field image is flat_response_o5 with scale=1.
+AF507094_bias.fits: May 11 22:36 Flat field image is flat_response_o5 with scale=1.
+AF507095_bias.fits: May 11 22:36 Flat field image is flat_response_o5 with scale=1.
+AF507096_bias.fits: May 11 22:36 Flat field image is flat_response_o5 with scale=1.
+AF507097_bias.fits: May 11 22:36 Flat field image is flat_response_o5 with scale=1.
+AF507098_bias.fits: May 11 22:36 Flat field image is flat_response_o5 with scale=1.
+AF507099_bias.fits: May 11 22:36 Flat field image is flat_response_o5 with scale=1.
+AF507100_bias.fits: May 11 22:36 Flat field image is flat_response_o5 with scale=1.
+AF507101_bias.fits: May 11 22:36 Flat field image is flat_response_o5 with scale=1.
+AF507102_bias.fits: May 11 22:36 Flat field image is flat_response_o5 with scale=1.
+AF507103_bias.fits: May 11 22:36 Flat field image is flat_response_o5 with scale=1.
+AF507104_bias.fits: May 11 22:36 Flat field image is flat_response_o5 with scale=1.
+AF507105_bias.fits: May 11 22:36 Flat field image is flat_response_o5 with scale=1.
+AF507106_bias.fits: May 11 22:36 Flat field image is flat_response_o5 with scale=1.
+AF507107_bias.fits: May 11 22:36 Flat field image is flat_response_o5 with scale=1.
+AF507108_bias.fits: May 11 22:36 Flat field image is flat_response_o5 with scale=1.
+AF507109_bias.fits: May 11 22:36 Flat field image is flat_response_o5 with scale=1.
+AF507110_bias.fits: May 11 22:36 Flat field image is flat_response_o5 with scale=1.
+May 11 23:20: FIND - 1 apertures found for obj1
+May 11 23:25: EDIT - 1 apertures edited for obj1
+May 11 23:26: TRACE - Trace of aperture 1 in obj1 lost at line 1569.
+May 11 23:26: TRACE - Trace of aperture 1 in obj1 recovered at line 1574.
+May 11 23:26: TRACE - Trace of aperture 1 in obj1 lost at line 1694.
+May 11 23:26: TRACE - Trace of aperture 1 in obj1 recovered at line 1699.
+May 11 23:26: TRACE - Trace of aperture 1 in obj1 lost at line 1709.
+May 11 23:26: TRACE - Trace of aperture 1 in obj1 lost at line 1714.
+May 11 23:26: TRACE - Trace of aperture 1 in obj1 recovered at line 1719.
+May 11 23:26: TRACE - Trace of aperture 1 in obj1 lost at line 1729.
+May 11 23:26: TRACE - Trace of aperture 1 in obj1 recovered at line 1734.
+May 11 23:26: TRACE - Trace of aperture 1 in obj1 lost at line 1819.
+May 11 23:26: TRACE - Trace of aperture 1 in obj1 recovered at line 1824.
+May 11 23:26: TRACE - Trace of aperture 1 in obj1 lost at line 1874.
+May 11 23:26: TRACE - Trace of aperture 1 in obj1 lost at line 1879.
+May 11 23:26: TRACE - Trace of aperture 1 in obj1 recovered at line 1884.
+May 11 23:26: TRACE - Trace of aperture 1 in obj1 lost at line 1974.
+May 11 23:26: TRACE - Trace of aperture 1 in obj1 recovered at line 1979.
+May 11 23:26: TRACE - Trace of aperture 1 in obj1 lost at line 1999.
+May 11 23:26: TRACE - Trace of aperture 1 in obj1 recovered at line 2004.
+May 11 23:26: TRACE - Trace of aperture 1 in obj1 lost at line 2044.
+May 11 23:26: TRACE - Trace of aperture 1 in obj1 lost at line 219.
+May 11 23:26: TRACE - Trace of aperture 1 in obj1 recovered at line 214.
+May 11 23:30: TRACE - 1 apertures traced in obj1.
+May 11 23:30: DATABASE - 1 apertures for obj1 written to database
+May 11 23:30: EXTRACT: 242 pixels rejected for profile from aperture 1
+May 11 23:30: EXTRACT: Aperture 1 variance spectrum bias factor is 0.9990278
+May 11 23:30: EXTRACT: 18 pixels rejected from aperture 1
+May 11 23:30: EXTRACT - Aperture 1 from obj1 --> obj1_spec
+May 11 23:55: FIND - 1 apertures found for obj2
+May 11 23:56: EDIT - 1 apertures edited for obj2
+May 11 23:56: TRACE - Trace of aperture 1 in obj2 lost at line 904.
+May 11 23:56: TRACE - Trace of aperture 1 in obj2 recovered at line 899.
+May 11 23:56: TRACE - Trace of aperture 1 in obj2 lost at line 854.
+May 11 23:56: TRACE - Trace of aperture 1 in obj2 recovered at line 849.
+May 11 23:56: TRACE - Trace of aperture 1 in obj2 lost at line 734.
+May 11 23:56: TRACE - Trace of aperture 1 in obj2 recovered at line 729.
+May 11 23:56: TRACE - Trace of aperture 1 in obj2 lost at line 664.
+May 11 23:56: TRACE - Trace of aperture 1 in obj2 recovered at line 659.
+May 11 23:56: TRACE - Trace of aperture 1 in obj2 lost at line 649.
+May 11 23:56: TRACE - Trace of aperture 1 in obj2 recovered at line 644.
+May 11 23:56: TRACE - Trace of aperture 1 in obj2 lost at line 634.
+May 11 23:56: TRACE - Trace of aperture 1 in obj2 recovered at line 629.
+May 11 23:56: TRACE - Trace of aperture 1 in obj2 lost at line 619.
+May 11 23:56: TRACE - Trace of aperture 1 in obj2 recovered at line 614.
+May 11 23:56: TRACE - Trace of aperture 1 in obj2 lost at line 594.
+May 11 23:56: TRACE - Trace of aperture 1 in obj2 lost at line 589.
+May 11 23:56: TRACE - Trace of aperture 1 in obj2 recovered at line 584.
+May 11 23:56: TRACE - Trace of aperture 1 in obj2 lost at line 564.
+May 11 23:56: TRACE - Trace of aperture 1 in obj2 recovered at line 559.
+May 11 23:56: TRACE - Trace of aperture 1 in obj2 lost at line 534.
+May 11 23:56: TRACE - Trace of aperture 1 in obj2 recovered at line 529.
+May 12  0:00: TRACE - 1 apertures traced in obj2.
+May 12  0:00: DATABASE - 1 apertures for obj2 written to database
+May 12  0:00: EXTRACT: 267 pixels rejected for profile from aperture 1
+May 12  0:00: EXTRACT: Aperture 1 variance spectrum bias factor is 1.00014
+May 12  0:00: EXTRACT: 0 pixels rejected from aperture 1
+May 12  0:00: EXTRACT - Aperture 1 from obj2 --> obj2_spec
+May 12  0:12: DATABASE  - 1 apertures read for obj1 from database
+May 12  0:12: RECENTER  - 1 apertures shifted by INDEF for obj1.
+May 12  0:13: EDIT - 1 apertures edited for obj1
+May 12  0:13: TRACE - Trace of aperture 1 in obj1 lost at line 1019.
+May 12  0:13: TRACE - Trace of aperture 1 in obj1 lost at line 1024.
+May 12  0:13: TRACE - Trace of aperture 1 in obj1 lost at line 1029.
+May 12  0:13: TRACE - Trace of aperture 1 in obj1 lost at line 1014.
+May 12  0:13: TRACE - Trace of aperture 1 in obj1 lost at line 1009.
+May 12  0:13: TRACE - Trace of aperture 1 in obj1 lost at line 1004.
+May 12  0:13: TRACE - 1 apertures traced in obj1.
+May 12  0:13: DATABASE - 1 apertures for obj1 written to database
+May 12  0:13: EXTRACT: 128 pixels rejected for profile from aperture 1
+May 12  0:13: EXTRACT: Aperture 1 variance spectrum bias factor is 0.965246
+May 12  0:13: EXTRACT: 392 pixels rejected from aperture 1
+May 12  0:14: EXTRACT - Aperture 1 from obj1 --> obj1_spec
+May 12  0:26: DATABASE  - 1 apertures read for obj1 from database
+May 12  0:27: RECENTER  - 1 apertures shifted by INDEF for obj1.
+May 12  0:27: EDIT - 1 apertures edited for obj1
+May 12  0:27: TRACE - Trace of aperture 1 in obj1 lost at line 1019.
+May 12  0:27: TRACE - Trace of aperture 1 in obj1 lost at line 1024.
+May 12  0:27: TRACE - Trace of aperture 1 in obj1 lost at line 1029.
+May 12  0:27: TRACE - Trace of aperture 1 in obj1 lost at line 1014.
+May 12  0:27: TRACE - Trace of aperture 1 in obj1 lost at line 1009.
+May 12  0:27: TRACE - Trace of aperture 1 in obj1 lost at line 1004.
+May 12  0:27: TRACE - 1 apertures traced in obj1.
+May 12  0:27: DATABASE - 1 apertures for obj1 written to database
+May 12  0:27: EXTRACT: 128 pixels rejected for profile from aperture 1
+May 12  0:27: EXTRACT: Aperture 1 variance spectrum bias factor is 0.965246
+May 12  0:27: EXTRACT: 392 pixels rejected from aperture 1
+May 12  0:28: EXTRACT - Aperture 1 from obj1 --> obj1_spec
+
+May 12  0:48: IMCOMBINE
+  combine = average, scale = none, zero = none, weight = none
+  reject = minmax, nlow = 0, nhigh = 1
+  blank = 0.
+                Images 
+          AF507042.fits
+          AF507043.fits
+          AF507044.fits
+          AF507045.fits
+          AF507046.fits
+          AF507047.fits
+          AF507048.fits
+          AF507049.fits
+          AF507050.fits
+
+  Output image = M_bias, ncombine = 9
+
+May 12  0:52: IMCOMBINE
+  combine = average, scale = none, zero = none, weight = none
+  reject = minmax, nlow = 0, nhigh = 1
+  blank = 0.
+                Images 
+          AF507042.fits
+          AF507043.fits
+          AF507044.fits
+          AF507045.fits
+          AF507046.fits
+          AF507047.fits
+          AF507048.fits
+          AF507049.fits
+          AF507050.fits
+
+  Output image = M_bias, ncombine = 9
+
+May 12  1:01: IMCOMBINE
+  combine = average, scale = none, zero = none, weight = none
+  reject = minmax, nlow = 0, nhigh = 1
+  blank = 0.
+                Images 
+          AF507042.fits
+          AF507043.fits
+          AF507044.fits
+          AF507045.fits
+          AF507046.fits
+          AF507047.fits
+          AF507048.fits
+          AF507049.fits
+          AF507050.fits
+
+  Output image = M_bias, ncombine = 9
+
+May 12  1:02: IMCOMBINE
+  combine = average, scale = none, zero = none, weight = none
+  reject = minmax, nlow = 0, nhigh = 1
+  blank = 0.
+                Images 
+          AF507042.fits
+          AF507043.fits
+          AF507044.fits
+          AF507045.fits
+          AF507046.fits
+          AF507047.fits
+          AF507048.fits
+          AF507049.fits
+          AF507050.fits
+
+  Output image = M_bias, ncombine = 9
+
+May 12  1:06: IMCOMBINE
+  combine = average, scale = none, zero = none, weight = none
+  reject = minmax, nlow = 0, nhigh = 1
+  blank = 0.
+                Images 
+          AF507042.fits
+          AF507043.fits
+          AF507044.fits
+          AF507045.fits
+          AF507046.fits
+          AF507047.fits
+          AF507048.fits
+          AF507049.fits
+          AF507050.fits
+
+  Output image = M_bias, ncombine = 9
+
+May 12  1:07: IMCOMBINE
+  combine = average, scale = none, zero = none, weight = none
+  reject = minmax, nlow = 0, nhigh = 1
+  blank = 0.
+                Images 
+          AF507042.fits
+          AF507043.fits
+          AF507044.fits
+          AF507045.fits
+          AF507046.fits
+          AF507047.fits
+          AF507048.fits
+          AF507049.fits
+          AF507050.fits
+          AF507051.fits
+
+  Output image = M_bias, ncombine = 10
+AF507042.fits: May 12  1:18 Trim data section is [26:2065,7:2044]
+M_bias: May 12  1:18 Trim data section is [26:2065,7:2044]
+AF507042.fits: May 12  1:18 Zero level correction image is M_bias
+AF507043.fits: May 12  1:18 Trim data section is [26:2065,7:2044]
+AF507043.fits: May 12  1:18 Zero level correction image is M_bias
+AF507044.fits: May 12  1:18 Trim data section is [26:2065,7:2044]
+AF507044.fits: May 12  1:18 Zero level correction image is M_bias
+AF507045.fits: May 12  1:18 Trim data section is [26:2065,7:2044]
+AF507045.fits: May 12  1:18 Zero level correction image is M_bias
+AF507046.fits: May 12  1:18 Trim data section is [26:2065,7:2044]
+AF507046.fits: May 12  1:18 Zero level correction image is M_bias
+AF507047.fits: May 12  1:18 Trim data section is [26:2065,7:2044]
+AF507047.fits: May 12  1:18 Zero level correction image is M_bias
+AF507048.fits: May 12  1:18 Trim data section is [26:2065,7:2044]
+AF507048.fits: May 12  1:18 Zero level correction image is M_bias
+AF507049.fits: May 12  1:18 Trim data section is [26:2065,7:2044]
+AF507049.fits: May 12  1:18 Zero level correction image is M_bias
+AF507050.fits: May 12  1:18 Trim data section is [26:2065,7:2044]
+AF507050.fits: May 12  1:18 Zero level correction image is M_bias
+AF507051.fits: May 12  1:18 Trim data section is [26:2065,7:2044]
+AF507051.fits: May 12  1:18 Zero level correction image is M_bias
+AF507052.fits: May 12  1:18 Trim data section is [26:2065,7:2044]
+AF507052.fits: May 12  1:18 Zero level correction image is M_bias
+AF507053.fits: May 12  1:18 Trim data section is [26:2065,7:2044]
+AF507053.fits: May 12  1:18 Zero level correction image is M_bias
+AF507054.fits: May 12  1:18 Trim data section is [26:2065,7:2044]
+AF507054.fits: May 12  1:18 Zero level correction image is M_bias
+AF507055.fits: May 12  1:18 Trim data section is [26:2065,7:2044]
+AF507055.fits: May 12  1:18 Zero level correction image is M_bias
+AF507056.fits: May 12  1:18 Trim data section is [26:2065,7:2044]
+AF507056.fits: May 12  1:18 Zero level correction image is M_bias
+AF507057.fits: May 12  1:18 Trim data section is [26:2065,7:2044]
+AF507057.fits: May 12  1:18 Zero level correction image is M_bias
+AF507058.fits: May 12  1:18 Trim data section is [26:2065,7:2044]
+AF507058.fits: May 12  1:18 Zero level correction image is M_bias
+AF507059.fits: May 12  1:18 Trim data section is [26:2065,7:2044]
+AF507059.fits: May 12  1:18 Zero level correction image is M_bias
+AF507060.fits: May 12  1:18 Trim data section is [26:2065,7:2044]
+AF507060.fits: May 12  1:18 Zero level correction image is M_bias
+AF507061.fits: May 12  1:18 Trim data section is [26:2065,7:2044]
+AF507061.fits: May 12  1:18 Zero level correction image is M_bias
+AF507062.fits: May 12  1:18 Trim data section is [26:2065,7:2044]
+AF507062.fits: May 12  1:18 Zero level correction image is M_bias
+AF507063.fits: May 12  1:18 Trim data section is [26:2065,7:2044]
+AF507063.fits: May 12  1:18 Zero level correction image is M_bias
+AF507064.fits: May 12  1:18 Trim data section is [26:2065,7:2044]
+AF507064.fits: May 12  1:18 Zero level correction image is M_bias
+AF507065.fits: May 12  1:18 Trim data section is [26:2065,7:2044]
+AF507065.fits: May 12  1:18 Zero level correction image is M_bias
+AF507066.fits: May 12  1:18 Trim data section is [26:2065,7:2044]
+AF507066.fits: May 12  1:18 Zero level correction image is M_bias
+AF507067.fits: May 12  1:18 Trim data section is [26:2065,7:2044]
+AF507067.fits: May 12  1:18 Zero level correction image is M_bias
+AF507068.fits: May 12  1:18 Trim data section is [26:2065,7:2044]
+AF507068.fits: May 12  1:18 Zero level correction image is M_bias
+AF507069.fits: May 12  1:18 Trim data section is [26:2065,7:2044]
+AF507069.fits: May 12  1:18 Zero level correction image is M_bias
+AF507070.fits: May 12  1:18 Trim data section is [26:2065,7:2044]
+AF507070.fits: May 12  1:18 Zero level correction image is M_bias
+AF507071.fits: May 12  1:18 Trim data section is [26:2065,7:2044]
+AF507071.fits: May 12  1:18 Zero level correction image is M_bias
+AF507072.fits: May 12  1:18 Trim data section is [26:2065,7:2044]
+AF507072.fits: May 12  1:18 Zero level correction image is M_bias
+AF507073.fits: May 12  1:18 Trim data section is [26:2065,7:2044]
+AF507073.fits: May 12  1:18 Zero level correction image is M_bias
+AF507074.fits: May 12  1:18 Trim data section is [26:2065,7:2044]
+AF507074.fits: May 12  1:18 Zero level correction image is M_bias
+AF507075.fits: May 12  1:18 Trim data section is [26:2065,7:2044]
+AF507075.fits: May 12  1:18 Zero level correction image is M_bias
+AF507076.fits: May 12  1:18 Trim data section is [26:2065,7:2044]
+AF507076.fits: May 12  1:18 Zero level correction image is M_bias
+AF507077.fits: May 12  1:18 Trim data section is [26:2065,7:2044]
+AF507077.fits: May 12  1:18 Zero level correction image is M_bias
+AF507078.fits: May 12  1:18 Trim data section is [26:2065,7:2044]
+AF507078.fits: May 12  1:18 Zero level correction image is M_bias
+AF507079.fits: May 12  1:18 Trim data section is [26:2065,7:2044]
+AF507079.fits: May 12  1:18 Zero level correction image is M_bias
+AF507080.fits: May 12  1:18 Trim data section is [26:2065,7:2044]
+AF507080.fits: May 12  1:18 Zero level correction image is M_bias
+AF507081.fits: May 12  1:18 Trim data section is [26:2065,7:2044]
+AF507081.fits: May 12  1:18 Zero level correction image is M_bias
+AF507082.fits: May 12  1:18 Trim data section is [26:2065,7:2044]
+AF507082.fits: May 12  1:18 Zero level correction image is M_bias
+AF507083.fits: May 12  1:18 Trim data section is [26:2065,7:2044]
+AF507083.fits: May 12  1:18 Zero level correction image is M_bias
+AF507084.fits: May 12  1:18 Trim data section is [26:2065,7:2044]
+AF507084.fits: May 12  1:18 Zero level correction image is M_bias
+AF507085.fits: May 12  1:18 Trim data section is [26:2065,7:2044]
+AF507085.fits: May 12  1:18 Zero level correction image is M_bias
+AF507086.fits: May 12  1:18 Trim data section is [26:2065,7:2044]
+AF507086.fits: May 12  1:18 Zero level correction image is M_bias
+AF507087.fits: May 12  1:18 Trim data section is [26:2065,7:2044]
+AF507087.fits: May 12  1:18 Zero level correction image is M_bias
+AF507088.fits: May 12  1:18 Trim data section is [26:2065,7:2044]
+AF507088.fits: May 12  1:18 Zero level correction image is M_bias
+AF507089.fits: May 12  1:18 Trim data section is [26:2065,7:2044]
+AF507089.fits: May 12  1:18 Zero level correction image is M_bias
+AF507090.fits: May 12  1:18 Trim data section is [26:2065,7:2044]
+AF507090.fits: May 12  1:18 Zero level correction image is M_bias
+AF507091.fits: May 12  1:18 Trim data section is [26:2065,7:2044]
+AF507091.fits: May 12  1:18 Zero level correction image is M_bias
+AF507092.fits: May 12  1:18 Trim data section is [26:2065,7:2044]
+AF507092.fits: May 12  1:18 Zero level correction image is M_bias
+AF507093.fits: May 12  1:18 Trim data section is [26:2065,7:2044]
+AF507093.fits: May 12  1:18 Zero level correction image is M_bias
+AF507094.fits: May 12  1:18 Trim data section is [26:2065,7:2044]
+AF507094.fits: May 12  1:18 Zero level correction image is M_bias
+AF507095.fits: May 12  1:18 Trim data section is [26:2065,7:2044]
+AF507095.fits: May 12  1:18 Zero level correction image is M_bias
+AF507096.fits: May 12  1:18 Trim data section is [26:2065,7:2044]
+AF507096.fits: May 12  1:18 Zero level correction image is M_bias
+AF507097.fits: May 12  1:18 Trim data section is [26:2065,7:2044]
+AF507097.fits: May 12  1:18 Zero level correction image is M_bias
+AF507098.fits: May 12  1:18 Trim data section is [26:2065,7:2044]
+AF507098.fits: May 12  1:18 Zero level correction image is M_bias
+AF507099.fits: May 12  1:18 Trim data section is [26:2065,7:2044]
+AF507099.fits: May 12  1:18 Zero level correction image is M_bias
+AF507100.fits: May 12  1:18 Trim data section is [26:2065,7:2044]
+AF507100.fits: May 12  1:18 Zero level correction image is M_bias
+AF507101.fits: May 12  1:18 Trim data section is [26:2065,7:2044]
+AF507101.fits: May 12  1:18 Zero level correction image is M_bias
+AF507102.fits: May 12  1:18 Trim data section is [26:2065,7:2044]
+AF507102.fits: May 12  1:18 Zero level correction image is M_bias
+AF507103.fits: May 12  1:18 Trim data section is [26:2065,7:2044]
+AF507103.fits: May 12  1:18 Zero level correction image is M_bias
+AF507104.fits: May 12  1:18 Trim data section is [26:2065,7:2044]
+AF507104.fits: May 12  1:18 Zero level correction image is M_bias
+AF507105.fits: May 12  1:18 Trim data section is [26:2065,7:2044]
+AF507105.fits: May 12  1:18 Zero level correction image is M_bias
+AF507106.fits: May 12  1:18 Trim data section is [26:2065,7:2044]
+AF507106.fits: May 12  1:18 Zero level correction image is M_bias
+AF507107.fits: May 12  1:18 Trim data section is [26:2065,7:2044]
+AF507107.fits: May 12  1:18 Zero level correction image is M_bias
+AF507108.fits: May 12  1:18 Trim data section is [26:2065,7:2044]
+AF507108.fits: May 12  1:18 Zero level correction image is M_bias
+AF507109.fits: May 12  1:18 Trim data section is [26:2065,7:2044]
+AF507109.fits: May 12  1:18 Zero level correction image is M_bias
+AF507110.fits: May 12  1:18 Trim data section is [26:2065,7:2044]
+AF507110.fits: May 12  1:18 Zero level correction image is M_bias
+
+May 12  1:25: IMCOMBINE
+  combine = average, scale = mode, zero = none, weight = none
+  reject = crreject, mclip = yes, nkeep = 1
+  rdnoise = rdnoise, gain = gain, snoise = 0., hsigma = 3.
+  blank = 1.
+                Images     Mode Rdnoise   Gain  Scale
+     AF507058_bias.fits  23502.     7.1   1.91  0.994
+     AF507059_bias.fits  23525.     7.1   1.91  0.993
+     AF507060_bias.fits  23230.     7.1   1.91  1.005
+     AF507061_bias.fits  23395.     7.1   1.91  0.998
+     AF507062_bias.fits  23233.     7.1   1.91  1.005
+     AF507063_bias.fits  23204.     7.1   1.91  1.007
+     AF507064_bias.fits  23255.     7.1   1.91  1.004
+     AF507065_bias.fits  23417.     7.1   1.91  0.997
+     AF507066_bias.fits  23508.     7.1   1.91  0.993
+     AF507067_bias.fits  23284.     7.1   1.91  1.003
+
+  Output image = M_flat, ncombine = 10
+AF507042_bias.fits: May 12  1:34 Flat field image is flat_response with scale=1.
+AF507043_bias.fits: May 12  1:34 Flat field image is flat_response with scale=1.
+AF507044_bias.fits: May 12  1:34 Flat field image is flat_response with scale=1.
+AF507045_bias.fits: May 12  1:34 Flat field image is flat_response with scale=1.
+AF507046_bias.fits: May 12  1:34 Flat field image is flat_response with scale=1.
+AF507047_bias.fits: May 12  1:34 Flat field image is flat_response with scale=1.
+AF507048_bias.fits: May 12  1:34 Flat field image is flat_response with scale=1.
+AF507049_bias.fits: May 12  1:34 Flat field image is flat_response with scale=1.
+AF507050_bias.fits: May 12  1:34 Flat field image is flat_response with scale=1.
+AF507051_bias.fits: May 12  1:34 Flat field image is flat_response with scale=1.
+AF507052_bias.fits: May 12  1:34 Flat field image is flat_response with scale=1.
+AF507053_bias.fits: May 12  1:34 Flat field image is flat_response with scale=1.
+AF507054_bias.fits: May 12  1:34 Flat field image is flat_response with scale=1.
+AF507055_bias.fits: May 12  1:34 Flat field image is flat_response with scale=1.
+AF507056_bias.fits: May 12  1:34 Flat field image is flat_response with scale=1.
+AF507057_bias.fits: May 12  1:34 Flat field image is flat_response with scale=1.
+AF507058_bias.fits: May 12  1:34 Flat field image is flat_response with scale=1.
+AF507059_bias.fits: May 12  1:34 Flat field image is flat_response with scale=1.
+AF507060_bias.fits: May 12  1:34 Flat field image is flat_response with scale=1.
+AF507061_bias.fits: May 12  1:34 Flat field image is flat_response with scale=1.
+AF507062_bias.fits: May 12  1:34 Flat field image is flat_response with scale=1.
+AF507063_bias.fits: May 12  1:34 Flat field image is flat_response with scale=1.
+AF507064_bias.fits: May 12  1:34 Flat field image is flat_response with scale=1.
+AF507065_bias.fits: May 12  1:34 Flat field image is flat_response with scale=1.
+AF507066_bias.fits: May 12  1:34 Flat field image is flat_response with scale=1.
+AF507067_bias.fits: May 12  1:34 Flat field image is flat_response with scale=1.
+AF507068_bias.fits: May 12  1:34 Flat field image is flat_response with scale=1.
+AF507069_bias.fits: May 12  1:34 Flat field image is flat_response with scale=1.
+AF507070_bias.fits: May 12  1:34 Flat field image is flat_response with scale=1.
+AF507071_bias.fits: May 12  1:34 Flat field image is flat_response with scale=1.
+AF507072_bias.fits: May 12  1:34 Flat field image is flat_response with scale=1.
+AF507073_bias.fits: May 12  1:34 Flat field image is flat_response with scale=1.
+AF507074_bias.fits: May 12  1:34 Flat field image is flat_response with scale=1.
+AF507075_bias.fits: May 12  1:34 Flat field image is flat_response with scale=1.
+AF507076_bias.fits: May 12  1:34 Flat field image is flat_response with scale=1.
+AF507077_bias.fits: May 12  1:34 Flat field image is flat_response with scale=1.
+AF507078_bias.fits: May 12  1:34 Flat field image is flat_response with scale=1.
+AF507079_bias.fits: May 12  1:34 Flat field image is flat_response with scale=1.
+AF507080_bias.fits: May 12  1:34 Flat field image is flat_response with scale=1.
+AF507081_bias.fits: May 12  1:34 Flat field image is flat_response with scale=1.
+AF507082_bias.fits: May 12  1:34 Flat field image is flat_response with scale=1.
+AF507083_bias.fits: May 12  1:34 Flat field image is flat_response with scale=1.
+AF507084_bias.fits: May 12  1:34 Flat field image is flat_response with scale=1.
+AF507085_bias.fits: May 12  1:34 Flat field image is flat_response with scale=1.
+AF507086_bias.fits: May 12  1:34 Flat field image is flat_response with scale=1.
+AF507087_bias.fits: May 12  1:34 Flat field image is flat_response with scale=1.
+AF507088_bias.fits: May 12  1:34 Flat field image is flat_response with scale=1.
+AF507089_bias.fits: May 12  1:34 Flat field image is flat_response with scale=1.
+AF507090_bias.fits: May 12  1:34 Flat field image is flat_response with scale=1.
+AF507091_bias.fits: May 12  1:34 Flat field image is flat_response with scale=1.
+AF507092_bias.fits: May 12  1:34 Flat field image is flat_response with scale=1.
+AF507093_bias.fits: May 12  1:34 Flat field image is flat_response with scale=1.
+AF507094_bias.fits: May 12  1:34 Flat field image is flat_response with scale=1.
+AF507095_bias.fits: May 12  1:34 Flat field image is flat_response with scale=1.
+AF507096_bias.fits: May 12  1:34 Flat field image is flat_response with scale=1.
+AF507097_bias.fits: May 12  1:34 Flat field image is flat_response with scale=1.
+AF507098_bias.fits: May 12  1:34 Flat field image is flat_response with scale=1.
+AF507099_bias.fits: May 12  1:34 Flat field image is flat_response with scale=1.
+AF507100_bias.fits: May 12  1:34 Flat field image is flat_response with scale=1.
+AF507101_bias.fits: May 12  1:34 Flat field image is flat_response with scale=1.
+AF507102_bias.fits: May 12  1:34 Flat field image is flat_response with scale=1.
+AF507103_bias.fits: May 12  1:34 Flat field image is flat_response with scale=1.
+AF507104_bias.fits: May 12  1:34 Flat field image is flat_response with scale=1.
+AF507105_bias.fits: May 12  1:34 Flat field image is flat_response with scale=1.
+AF507106_bias.fits: May 12  1:34 Flat field image is flat_response with scale=1.
+AF507107_bias.fits: May 12  1:34 Flat field image is flat_response with scale=1.
+AF507108_bias.fits: May 12  1:34 Flat field image is flat_response with scale=1.
+AF507109_bias.fits: May 12  1:34 Flat field image is flat_response with scale=1.
+AF507110_bias.fits: May 12  1:34 Flat field image is flat_response with scale=1.
+May 12  1:56: FIND - 1 apertures found for obj1
+May 12  1:56: EDIT - 1 apertures edited for obj1
+May 12  1:56: TRACE - Trace of aperture 1 in obj1 lost at line 1784.
+May 12  1:56: TRACE - Trace of aperture 1 in obj1 lost at line 1789.
+May 12  1:56: TRACE - Trace of aperture 1 in obj1 recovered at line 1794.
+May 12  1:56: TRACE - Trace of aperture 1 in obj1 lost at line 1809.
+May 12  1:56: TRACE - Trace of aperture 1 in obj1 recovered at line 1814.
+May 12  1:56: TRACE - Trace of aperture 1 in obj1 lost at line 1849.
+May 12  1:56: TRACE - Trace of aperture 1 in obj1 recovered at line 1854.
+May 12  1:56: TRACE - Trace of aperture 1 in obj1 lost at line 1859.
+May 12  1:56: TRACE - Trace of aperture 1 in obj1 recovered at line 1864.
+May 12  1:56: TRACE - Trace of aperture 1 in obj1 lost at line 1874.
+May 12  1:56: TRACE - Trace of aperture 1 in obj1 recovered at line 1879.
+May 12  1:56: TRACE - Trace of aperture 1 in obj1 lost at line 1884.
+May 12  1:56: TRACE - Trace of aperture 1 in obj1 recovered at line 1889.
+May 12  1:56: TRACE - Trace of aperture 1 in obj1 lost at line 1929.
+May 12  1:56: TRACE - Trace of aperture 1 in obj1 recovered at line 1934.
+May 12  1:56: TRACE - Trace of aperture 1 in obj1 lost at line 1954.
+May 12  1:56: TRACE - Trace of aperture 1 in obj1 recovered at line 1959.
+May 12  1:56: TRACE - Trace of aperture 1 in obj1 lost at line 1964.
+May 12  1:56: TRACE - Trace of aperture 1 in obj1 recovered at line 1969.
+May 12  1:56: TRACE - Trace of aperture 1 in obj1 lost at line 2004.
+May 12  1:56: TRACE - Trace of aperture 1 in obj1 recovered at line 2009.
+May 12  1:56: TRACE - Trace of aperture 1 in obj1 lost at line 2019.
+May 12  1:56: TRACE - Trace of aperture 1 in obj1 recovered at line 2024.
+May 12  1:56: TRACE - Trace of aperture 1 in obj1 lost at line 214.
+May 12  1:56: TRACE - Trace of aperture 1 in obj1 recovered at line 209.
+May 12  1:58: TRACE - 1 apertures traced in obj1.
+May 12  1:58: DATABASE - 1 apertures for obj1 written to database
+May 12  1:58: EXTRACT: 234 pixels rejected for profile from aperture 1
+May 12  1:58: EXTRACT: Aperture 1 variance spectrum bias factor is 1.000085
+May 12  1:58: EXTRACT: 125 pixels rejected from aperture 1
+May 12  1:58: EXTRACT - Aperture 1 from obj1 --> obj1_spec
+May 12  2:01: FIND - 1 apertures found for obj2
+May 12  2:01: EDIT - 1 apertures edited for obj2
+May 12  2:01: TRACE - Trace of aperture 1 in obj2 lost at line 1939.
+May 12  2:01: TRACE - Trace of aperture 1 in obj2 recovered at line 1944.
+May 12  2:01: TRACE - Trace of aperture 1 in obj2 lost at line 1994.
+May 12  2:01: TRACE - Trace of aperture 1 in obj2 recovered at line 1999.
+May 12  2:01: TRACE - Trace of aperture 1 in obj2 lost at line 2034.
+May 12  2:02: TRACE - 1 apertures traced in obj2.
+May 12  2:02: DATABASE - 1 apertures for obj2 written to database
+May 12  2:02: EXTRACT: 118 pixels rejected for profile from aperture 1
+May 12  2:02: EXTRACT: Aperture 1 variance spectrum bias factor is 1.000143
+May 12  2:02: EXTRACT: 12 pixels rejected from aperture 1
+May 12  2:03: EXTRACT - Aperture 1 from obj2 --> obj2_spec
+May 12  2:12: DATABASE  - 1 apertures read for obj1 from database
+May 12  2:12: DATABASE - 1 apertures for AF507052_flatcor written to database
+May 12  2:12: EXTRACT: 23 pixels rejected for profile from aperture 1
+May 12  2:12: EXTRACT: Aperture 1 variance spectrum bias factor is 1.000034
+May 12  2:12: EXTRACT: 16 pixels rejected from aperture 1
+May 12  2:14: EXTRACT - Aperture 1 from AF507052_flatcor --> AF507052_spec
+May 12  2:14: DATABASE  - 1 apertures read for obj1 from database
+May 12  2:14: DATABASE - 1 apertures for AF507053_flatcor written to database
+May 12  2:14: EXTRACT: 36 pixels rejected for profile from aperture 1
+May 12  2:14: EXTRACT: Aperture 1 variance spectrum bias factor is 1.000011
+May 12  2:14: EXTRACT: 23 pixels rejected from aperture 1
+May 12  2:14: EXTRACT - Aperture 1 from AF507053_flatcor --> AF507053_spec
+May 12  2:14: DATABASE  - 1 apertures read for obj1 from database
+May 12  2:14: DATABASE - 1 apertures for AF507054_flatcor written to database
+May 12  2:14: EXTRACT: 25 pixels rejected for profile from aperture 1
+May 12  2:14: EXTRACT: Aperture 1 variance spectrum bias factor is 0.9999889
+May 12  2:14: EXTRACT: 20 pixels rejected from aperture 1
+May 12  2:15: EXTRACT - Aperture 1 from AF507054_flatcor --> AF507054_spec
+May 12  2:19: DATABASE  - 1 apertures read for obj1 from database
+May 12  2:19: DATABASE - 1 apertures for AF507055_flatcor written to database
+May 12  2:19: EXTRACT: 153 pixels rejected for profile from aperture 1
+May 12  2:19: EXTRACT: Aperture 1 variance spectrum bias factor is 1.000063
+May 12  2:19: EXTRACT: 134 pixels rejected from aperture 1
+May 12  2:19: EXTRACT - Aperture 1 from AF507055_flatcor --> AF507055_spec
+May 12  2:19: DATABASE  - 1 apertures read for obj1 from database
+May 12  2:19: DATABASE - 1 apertures for AF507056_flatcor written to database
+May 12  2:19: EXTRACT: 98 pixels rejected for profile from aperture 1
+May 12  2:19: EXTRACT: Aperture 1 variance spectrum bias factor is 1.000041
+May 12  2:19: EXTRACT: 87 pixels rejected from aperture 1
+May 12  2:20: EXTRACT - Aperture 1 from AF507056_flatcor --> AF507056_spec
+May 12  2:20: DATABASE  - 1 apertures read for obj1 from database
+May 12  2:20: DATABASE - 1 apertures for AF507057_flatcor written to database
+May 12  2:20: EXTRACT: 55 pixels rejected for profile from aperture 1
+May 12  2:20: EXTRACT: Aperture 1 variance spectrum bias factor is 0.9999999
+May 12  2:20: EXTRACT: 44 pixels rejected from aperture 1
+May 12  2:20: EXTRACT - Aperture 1 from AF507057_flatcor --> AF507057_spec
+May 12  3:16: FIND - 1 apertures found for AF507068_flatcor
+May 12  3:16: EDIT - 1 apertures edited for AF507068_flatcor
+May 12  3:17: TRACE - 1 apertures traced in AF507068_flatcor.
+May 12  3:17: DATABASE - 1 apertures for AF507068_flatcor written to database
+May 12  3:17: EXTRACT: 21 pixels rejected for profile from aperture 1
+May 12  3:17: EXTRACT: Aperture 1 variance spectrum bias factor is 0.9999623
+May 12  3:17: EXTRACT: 2 pixels rejected from aperture 1
+May 12  3:17: EXTRACT - Aperture 1 from AF507068_flatcor --> calibstar_spec
+Community IRAF V2.18.1 sshamsi@shamsi-lappy Mon 03:34:58 12-May-2025
+Sensitivity function for aperture 1:
+Fitting function is spline3 of order 5 with 89 points and RMS of 0.0814.
+       Image Airmass  Points   Shift RMS Fit   Dev 1   Dev 2   Dev 3
+calibstar_speccor   1.111      89  0.0000  0.0809 -0.0012 -0.0010  0.0022
+
+  Lambda     Fit     Avg   Resid  SD Avg     N     Ext    Dext
+ 3450.00  30.081  30.451  0.3698  0.0000     1  0.0000  0.0000
+ 3500.00  30.680  30.680  0.0006  0.0000     1  0.0000  0.0000
+ 3550.00  31.218  30.986 -0.2318  0.0000     1  0.0000  0.0000
+ 3600.00  31.700  31.389 -0.3109  0.0000     1  0.0000  0.0000
+ 3650.00  32.129  31.903 -0.2258  0.0000     1  0.0000  0.0000
+ 3700.00  32.508  32.404 -0.1047  0.0000     1  0.0000  0.0000
+ 3750.00  32.842  32.876  0.0343  0.0000     1  0.0000  0.0000
+ 3800.00  33.133  33.257  0.1241  0.0000     1  0.0000  0.0000
+ 3850.00  33.384  33.573  0.1882  0.0000     1  0.0000  0.0000
+ 3900.00  33.600  33.786  0.1857  0.0000     1  0.0000  0.0000
+ 3950.00  33.784  33.972  0.1881  0.0000     1  0.0000  0.0000
+ 4000.00  33.939  34.070  0.1318  0.0000     1  0.0000  0.0000
+ 4050.00  34.068  34.119  0.0510  0.0000     1  0.0000  0.0000
+ 4100.00  34.175  34.150 -0.0255  0.0000     1  0.0000  0.0000
+ 4150.00  34.264  34.191 -0.0736  0.0000     1  0.0000  0.0000
+ 4200.00  34.338  34.242 -0.0967  0.0000     1  0.0000  0.0000
+ 4250.00  34.401  34.297 -0.1031  0.0000     1  0.0000  0.0000
+ 4300.00  34.455  34.346 -0.1091  0.0000     1  0.0000  0.0000
+ 4350.00  34.504  34.419 -0.0852  0.0000     1  0.0000  0.0000
+ 4400.00  34.552  34.487 -0.0646  0.0000     1  0.0000  0.0000
+ 4450.00  34.599  34.584 -0.0148  0.0000     1  0.0000  0.0000
+ 4500.00  34.645  34.648  0.0035  0.0000     1  0.0000  0.0000
+ 4550.00  34.690  34.694  0.0041  0.0000     1  0.0000  0.0000
+ 4600.00  34.734  34.748  0.0138  0.0000     1  0.0000  0.0000
+ 4650.00  34.777  34.803  0.0255  0.0000     1  0.0000  0.0000
+ 4700.00  34.820  34.845  0.0251  0.0000     1  0.0000  0.0000
+ 4750.00  34.861  34.883  0.0218  0.0000     1  0.0000  0.0000
+ 4800.00  34.901  34.919  0.0178  0.0000     1  0.0000  0.0000
+ 4850.00  34.940  34.966  0.0253  0.0000     1  0.0000  0.0000
+ 4900.00  34.978  34.974 -0.0045  0.0000     1  0.0000  0.0000
+ 4950.00  35.015  35.023  0.0073  0.0000     1  0.0000  0.0000
+ 5000.00  35.051  35.055  0.0039  0.0000     1  0.0000  0.0000
+ 5050.00  35.086  35.096  0.0101  0.0000     1  0.0000  0.0000
+ 5100.00  35.119  35.143  0.0238  0.0000     1  0.0000  0.0000
+ 5150.00  35.151  35.193  0.0419  0.0000     1  0.0000  0.0000
+ 5200.00  35.182  35.225  0.0435  0.0000     1  0.0000  0.0000
+ 5250.00  35.211  35.257  0.0455  0.0000     1  0.0000  0.0000
+ 5300.00  35.239  35.259  0.0198  0.0000     1  0.0000  0.0000
+ 5350.00  35.266  35.288  0.0219  0.0000     1  0.0000  0.0000
+ 5400.00  35.291  35.294  0.0031  0.0000     1  0.0000  0.0000
+ 5450.00  35.315  35.301 -0.0141  0.0000     1  0.0000  0.0000
+ 5500.00  35.338  35.320 -0.0187  0.0000     1  0.0000  0.0000
+ 5550.00  35.360  35.344 -0.0158  0.0000     1  0.0000  0.0000
+ 5600.00  35.381  35.357 -0.0241  0.0000     1  0.0000  0.0000
+ 5650.00  35.401  35.381 -0.0196  0.0000     1  0.0000  0.0000
+ 5700.00  35.420  35.396 -0.0242  0.0000     1  0.0000  0.0000
+ 5750.00  35.439  35.399 -0.0398  0.0000     1  0.0000  0.0000
+ 5800.00  35.457  35.423 -0.0332  0.0000     1  0.0000  0.0000
+ 5850.00  35.474  35.436 -0.0380  0.0000     1  0.0000  0.0000
+ 5900.00  35.490  35.431 -0.0598  0.0000     1  0.0000  0.0000
+ 5950.00  35.507  35.461 -0.0458  0.0000     1  0.0000  0.0000
+ 6000.00  35.523  35.500 -0.0228  0.0000     1  0.0000  0.0000
+ 6050.00  35.538  35.521 -0.0176  0.0000     1  0.0000  0.0000
+ 6100.00  35.554  35.544 -0.0100  0.0000     1  0.0000  0.0000
+ 6150.00  35.570  35.576  0.0068  0.0000     1  0.0000  0.0000
+ 6200.00  35.585  35.603  0.0180  0.0000     1  0.0000  0.0000
+ 6250.00  35.601  35.627  0.0267  0.0000     1  0.0000  0.0000
+ 6300.00  35.617  35.658  0.0412  0.0000     1  0.0000  0.0000
+ 6350.00  35.632  35.677  0.0449  0.0000     1  0.0000  0.0000
+ 6400.00  35.649  35.687  0.0385  0.0000     1  0.0000  0.0000
+ 6450.00  35.665  35.707  0.0429  0.0000     1  0.0000  0.0000
+ 6500.00  35.680  35.706  0.0260  0.0000     1  0.0000  0.0000
+ 6550.00  35.696  35.736  0.0398  0.0000     1  0.0000  0.0000
+ 6600.00  35.712  35.725  0.0127  0.0000     1  0.0000  0.0000
+ 6650.00  35.727  35.744  0.0171  0.0000     1  0.0000  0.0000
+ 6700.00  35.742  35.742  0.0002  0.0000     1  0.0000  0.0000
+ 6750.00  35.757  35.754 -0.0030  0.0000     1  0.0000  0.0000
+ 6800.00  35.771  35.747 -0.0235  0.0000     1  0.0000  0.0000
+ 6850.00  35.784  35.801  0.0166  0.0000     1  0.0000  0.0000
+ 6900.00  35.797  35.782 -0.0152  0.0000     1  0.0000  0.0000
+ 6950.00  35.809  35.763 -0.0460  0.0000     1  0.0000  0.0000
+ 7000.00  35.820  35.806 -0.0145  0.0000     1  0.0000  0.0000
+ 7050.00  35.831  35.806 -0.0246  0.0000     1  0.0000  0.0000
+ 7100.00  35.840  35.831 -0.0095  0.0000     1  0.0000  0.0000
+ 7150.00  35.849  35.851  0.0021  0.0000     1  0.0000  0.0000
+ 7200.00  35.856  35.835 -0.0216  0.0000     1  0.0000  0.0000
+ 7250.00  35.863  35.862 -0.0002  0.0000     1  0.0000  0.0000
+ 7300.00  35.868  35.840 -0.0283  0.0000     1  0.0000  0.0000
+ 7350.00  35.872  35.871 -0.0007  0.0000     1  0.0000  0.0000
+ 7400.00  35.874  35.876  0.0017  0.0000     1  0.0000  0.0000
+ 7450.00  35.875  35.903  0.0284  0.0000     1  0.0000  0.0000
+ 7500.00  35.875  35.903  0.0281  0.0000     1  0.0000  0.0000
+ 7750.00  35.847  35.860  0.0129  0.0000     1  0.0000  0.0000
+ 7800.00  35.836  35.845  0.0086  0.0000     1  0.0000  0.0000
+ 7850.00  35.823  35.805 -0.0176  0.0000     1  0.0000  0.0000
+ 7900.00  35.808  35.795 -0.0127  0.0000     1  0.0000  0.0000
+ 7950.00  35.791  35.799  0.0089  0.0000     1  0.0000  0.0000
+ 8000.00  35.771  35.755 -0.0162  0.0000     1  0.0000  0.0000
+ 8050.00  35.749  35.763  0.0142  0.0000     1  0.0000  0.0000
+

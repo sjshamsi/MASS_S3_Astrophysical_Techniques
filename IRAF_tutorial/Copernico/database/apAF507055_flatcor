@@ -1,0 +1,31 @@
+# Mon 02:19:37 12-May-2025
+begin	aperture AF507055_flatcor 1 1375.482 1019.
+	image	AF507055_flatcor
+	aperture	1
+	beam	1
+	center	1375.482 1019.
+	low	-5. -1018.
+	high	5. 1019.
+	background
+		xmin -70.
+		xmax 70.
+		function chebyshev
+		order 2
+		sample -70:-40,40:70
+		naverage -15
+		niterate 2
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	1
+	curve	9
+		3.
+		2.
+		1.
+		2038.
+		0.4983526
+		6.388207E-4
+		-0.0525551
+		0.2031318
+		1.824941
+

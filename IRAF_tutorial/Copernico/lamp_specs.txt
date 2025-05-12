@@ -1,0 +1,6 @@
+AF507052_spec.fits
+AF507053_spec.fits
+AF507054_spec.fits
+AF507055_spec.fits
+AF507056_spec.fits
+AF507057_spec.fits
